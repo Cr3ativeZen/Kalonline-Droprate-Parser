@@ -17,6 +17,7 @@ conn = mysql.connector.connect(
 )
 ###
 cursor = conn.cursor()
+
 #cursor.execute("SELECT * FROM Items")
 
 class Parser:
@@ -26,6 +27,7 @@ class Parser:
 
 
     def ReCreateTables(self):
+        pass
         # self.DROPTABLE("Items")
         # self.DROPTABLE("Monsters")
         # self.DROPTABLE("Groups")
@@ -33,7 +35,7 @@ class Parser:
         # self.DROPTABLE("Groups_Items")
         # self.DROPTABLE("ItemGroups_Groups")
         # self.DROPTABLE("Monsters_ItemGroups")
-
+        #
         # self.EXECUTE("CREATE TABLE Items ("
         #           "ID INTEGER PRIMARY KEY,"
         #           "NAMEID INTEGER,"
@@ -62,11 +64,11 @@ class Parser:
         #           "IDMonster INTEGER,"
         #           "IDItemGroup INTEGER,"
         #           "Rolls INTEGER)")
-
-        #self.ItemTable()
-        #self.MonsterTable()
-        self.ParseItemGroupIG()
-        self.ParseItemGroupIM()
+        #
+        # self.ItemTable()
+        # self.MonsterTable()
+        # self.ParseItemGroupIG()
+        # self.ParseItemGroupIM()
 
 
     def FindWordInLine(self,word,line):
@@ -84,25 +86,35 @@ class Parser:
 
 
     def FindIndexAndNameInIItem(self):
+        query = "INSERT INTO Items (ID,NAMEID) VALUES "
         for line in open("InitItem.txt", encoding="utf8"):
             index = self.FindIntInLine('index',line)
             nameid = self.FindIntInLine('name',line)
             #image = self.FindBetweenQuotes("line")
             #print(image)
+
             if isinstance(nameid,int) and isinstance(index,int):
-                self.INSERTINTO("Items","ID","NAMEID",str(index),str(nameid))
+                #self.INSERTINTO("Items","ID","NAMEID",str(index),str(nameid))
+                query = query + "("+str(index)+","+str(nameid)+"),"
+        query = query[:-1]
+        self.EXECUTE(query)
+
 
 
 
 
     def FindIndexAndNameInIMonster(self):
+        query = "INSERT INTO Monsters (ID,NAMEID) VALUES "
         for line in open("InitMonster.txt", encoding="utf8"):
             index = self.FindIntInLine('index',line)
             nameid = self.FindIntInLine('name', line)
             # image = self.FindBetweenQuotes(line)
             # print(line)
             if isinstance(nameid,int) and isinstance(index,int):
-                self.INSERTINTO("Monsters", "ID", "NAMEID", str(index), str(nameid))
+                #self.INSERTINTO("Monsters", "ID", "NAMEID", str(index), str(nameid))
+                query = query + "(" + str(index) + "," + str(nameid) + "),"
+        query = query[:-1]
+        self.EXECUTE(query)
 
 
 
@@ -163,7 +175,7 @@ class Parser:
                     i.__next__()
                     id = i.__next__()
                     id = str(id[0]).replace(")","")
-                    query = "SELECT * FROM [DropList].[dbo].[Groups] WHERE ID = "+str(id)
+                    query = "SELECT * FROM Groups WHERE ID = "+str(id)
                     #print(query)
                     cursor.execute(query)
                     if cursor.rowcount == 0:
@@ -206,7 +218,7 @@ class Parser:
                     id = i.__next__()#id
                     #print("KEKW")
                     #print(id)
-                    query = "SELECT * FROM [DropList].[dbo].[ItemGroups] WHERE ID = "+str(id)
+                    query = "SELECT * FROM ItemGroups WHERE ID = "+str(id)
                     cursor.execute(query)
                     if cursor.rowcount == 0:
                         self.INSERTINTO("ItemGroups","ID",str(id))
@@ -283,10 +295,11 @@ class Parser:
         # if len(argv) == 2:
         #     query = query[:-1]
 
-        print(query)
+        #print(query)
 
         cursor.execute(query)
         conn.commit()
+
 
 
     def UPDATE(self,tablename,column_where,value, *argv):
@@ -304,7 +317,6 @@ class Parser:
         query = query + "WHERE " + column_where +" = " + str(value)
 
         #print(query)
-
         cursor.execute(query)
         conn.commit()
 
@@ -314,9 +326,16 @@ class Parser:
         cursor.execute(query)
         conn.commit()
 
-
+    #>515 <1283
     def SELECTFROM(self,tablename):
-        query = "SELECT * FROM "+tablename
+        query = "SELECT * FROM "+tablename+" ORDER BY ID"
+        cursor.execute(query)
+
+        row = cursor.fetchall()
+        return row
+
+    def SELECTFROMMONSTERS(self):
+        query = "SELECT * FROM Monsters WHERE ID<515 OR ID>1283 ORDER BY ID"
         cursor.execute(query)
 
         row = cursor.fetchall()
@@ -328,7 +347,7 @@ class Parser:
         return row
 
     def EXECUTE(self,query):
-        print(query)
+        #print(query)
         cursor.execute(query)
         conn.commit()
 
