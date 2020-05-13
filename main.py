@@ -8,6 +8,10 @@ from flask_bootstrap import Bootstrap
 p = Parser()
 #p.ReCreateTables()
 
+
+
+
+
 def create_app():
   app = Flask(__name__)
   Bootstrap(app)
@@ -25,8 +29,11 @@ def home():
     p = Parser()
 
     f = float()
-    select = p.SELECTFROM("Monsters")
+    select = p.SELECTFROM("Items")
+
     monsters = list(select)
+    for row in monsters:
+        print(row)
     return render_template('index.html',p=p,f=f,monsters = monsters,str = str)
 
 
@@ -42,7 +49,8 @@ def homepage(variable):
             " INNER JOIN Groups g ON igg.IDGroup = g.ID" \
             " INNER JOIN Groups_Items gi ON g.ID = gi.IDGroup" \
             " INNER JOIN Items i ON gi.IDItem = i.ID" \
-            " WHERE mig.IDMonster = "+str(variable)
+            " WHERE mig.IDMonster = "+str(variable) +" ORDER BY dropchance DESC"
+    print(query)
     result = p.SELECT(query)
     return render_template('monster.html', p=p, f=f,monsters=monsters,ret = result)
 

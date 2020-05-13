@@ -1,12 +1,23 @@
 import re
 import os
 import pyodbc
-conn = pyodbc.connect('Driver={SQL Server};'
-                      'Server=DESKTOP-UB327Q5;'
-                      'Database=DropList;'
-                      'trusted_source=yes;')
-cursor = conn.cursor()
+import mysql.connector
+# conn = pyodbc.connect('Driver={SQL Server};'
+#                       'Server=DESKTOP-UB327Q5;'
+#                       'Database=DropList;'
+#                       'trusted_source=yes;')
+# cursor = conn.cursor()
+
+
+conn = mysql.connector.connect(
+  host="shinra2online.net",
+  user="bd0rks27_zen",
+  passwd="1WeekServer",
+  database="bd0rks27_DropList"
+)
 ###
+cursor = conn.cursor()
+#cursor.execute("SELECT * FROM Items")
 
 class Parser:
     def __init__(self):
@@ -15,45 +26,45 @@ class Parser:
 
 
     def ReCreateTables(self):
-        self.DROPTABLE("Items")
-        self.DROPTABLE("Monsters")
-        self.DROPTABLE("Groups")
-        self.DROPTABLE("ItemGroups")
-        self.DROPTABLE("Groups_Items")
-        self.DROPTABLE("ItemGroups_Groups")
-        self.DROPTABLE("Monsters_ItemGroups")
+        # self.DROPTABLE("Items")
+        # self.DROPTABLE("Monsters")
+        # self.DROPTABLE("Groups")
+        # self.DROPTABLE("ItemGroups")
+        # self.DROPTABLE("Groups_Items")
+        # self.DROPTABLE("ItemGroups_Groups")
+        # self.DROPTABLE("Monsters_ItemGroups")
 
-        self.EXECUTE("CREATE TABLE Items ("
-                  "ID INTEGER PRIMARY KEY,"
-                  "NAMEID INTEGER,"
-                  "NAME varchar(255),"
-                  "IMAGE varchar(255))")
-        self.EXECUTE("CREATE TABLE Monsters ("
-                  "ID INTEGER PRIMARY KEY,"
-                  "NAMEID INTEGER,"
-                  "NAME varchar(255))")
-        self.EXECUTE("CREATE TABLE Groups ("
-                  "ID INTEGER PRIMARY KEY)")
-        self.EXECUTE("CREATE TABLE ItemGroups ("
-                  "ID INTEGER PRIMARY KEY)")
-        self.EXECUTE("CREATE TABLE Groups_Items ("
-                  "ID INTEGER PRIMARY KEY IDENTITY,"
-                  "IDGroup INTEGER,"
-                  "IDItem INTEGER,"
-                  "ItemDropChance FLOAT)")
-        self.EXECUTE("CREATE TABLE ItemGroups_Groups ("
-                  "ID INTEGER PRIMARY KEY IDENTITY,"
-                  "IDItemGroup INTEGER,"
-                  "IDGroup INTEGER,"
-                  "GroupDropChance FLOAT)")
-        self.EXECUTE("CREATE TABLE Monsters_ItemGroups ("
-                  "ID INTEGER PRIMARY KEY IDENTITY,"
-                  "IDMonster INTEGER,"
-                  "IDItemGroup INTEGER,"
-                  "Rolls INTEGER)")
+        # self.EXECUTE("CREATE TABLE Items ("
+        #           "ID INTEGER PRIMARY KEY,"
+        #           "NAMEID INTEGER,"
+        #           "NAME varchar(255),"
+        #           "IMAGE varchar(255))")
+        # self.EXECUTE("CREATE TABLE Monsters ("
+        #           "ID INTEGER PRIMARY KEY,"
+        #           "NAMEID INTEGER,"
+        #           "NAME varchar(255))")
+        # self.EXECUTE("CREATE TABLE Groups ("
+        #           "ID INTEGER PRIMARY KEY)")
+        # self.EXECUTE("CREATE TABLE ItemGroups ("
+        #           "ID INTEGER PRIMARY KEY)")
+        # self.EXECUTE("CREATE TABLE Groups_Items ("
+        #           "ID INTEGER PRIMARY KEY AUTO_INCREMENT,"
+        #           "IDGroup INTEGER,"
+        #           "IDItem INTEGER,"
+        #           "ItemDropChance FLOAT)")
+        # self.EXECUTE("CREATE TABLE ItemGroups_Groups ("
+        #           "ID INTEGER PRIMARY KEY AUTO_INCREMENT,"
+        #           "IDItemGroup INTEGER,"
+        #           "IDGroup INTEGER,"
+        #           "GroupDropChance FLOAT)")
+        # self.EXECUTE("CREATE TABLE Monsters_ItemGroups ("
+        #           "ID INTEGER PRIMARY KEY AUTO_INCREMENT,"
+        #           "IDMonster INTEGER,"
+        #           "IDItemGroup INTEGER,"
+        #           "Rolls INTEGER)")
 
-        self.ItemTable()
-        self.MonsterTable()
+        #self.ItemTable()
+        #self.MonsterTable()
         self.ParseItemGroupIG()
         self.ParseItemGroupIM()
 
@@ -272,7 +283,7 @@ class Parser:
         # if len(argv) == 2:
         #     query = query[:-1]
 
-        #print(query)
+        print(query)
 
         cursor.execute(query)
         conn.commit()
@@ -317,7 +328,7 @@ class Parser:
         return row
 
     def EXECUTE(self,query):
-        #print(query)
+        print(query)
         cursor.execute(query)
         conn.commit()
 
