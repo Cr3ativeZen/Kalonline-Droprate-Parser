@@ -6,7 +6,7 @@ conn = pyodbc.connect('Driver={SQL Server};'
                       'Database=DropList;'
                       'trusted_source=yes;')
 cursor = conn.cursor()
-
+###
 
 class Parser:
     def __init__(self):
