@@ -1,0 +1,1288 @@
+;--------------------------------------------------------
+;[Shinra Online - 2020]
+;--------------------------------------------------------
+
+;--------------------------------------------------------
+;[Geons]
+;--------------------------------------------------------
+
+(group (index 100) (money (920 30)))
+(itemgroup (index 100) (group (1000 100)))
+
+(group (index 101) (money (920 35)))
+(itemgroup (index 101) (group (1000 101)))
+
+(group (index 102) (money (920 40)))
+(itemgroup (index 102) (group (1000 102)))
+
+(group (index 103) (money (920 45)))
+(itemgroup (index 103) (group (1000 103)))
+
+(group (index 104) (money (920 50)))
+(itemgroup (index 104) (group (1000 104)))
+
+(group (index 105) (money (920 55)))
+(itemgroup (index 105) (group (1000 105)))
+
+(group (index 106) (money (920 60)))
+(itemgroup (index 106) (group (1000 106)))
+
+(group (index 107) (money (920 65)))
+(itemgroup (index 107) (group (1000 107)))
+
+(group (index 108) (money (920 70)))
+(itemgroup (index 108) (group (1000 108)))
+
+(group (index 109) (money (920 75)))
+(itemgroup (index 109) (group (1000 109)))
+
+(group (index 110) (money (920 80)))
+(itemgroup (index 110) (group (1000 110)))
+
+(group (index 111) (money (920 85)))
+(itemgroup (index 111) (group (1000 111)))
+
+(group (index 112) (money (920 90)))
+(itemgroup (index 112) (group (1000 112)))
+
+(group (index 113) (money (920 95)))
+(itemgroup (index 113) (group (1000 113)))
+
+(group (index 114) (money (920 100)))
+(itemgroup (index 114) (group (1000 114)))
+
+(group (index 115) (money (920 105)))
+(itemgroup (index 115) (group (1000 115)))
+
+(group (index 116) (money (920 110)))
+(itemgroup (index 116) (group (1000 116)))
+
+(group (index 117) (money (920 115)))
+(itemgroup (index 117) (group (1000 117)))
+
+(group (index 118) (money (920 120)))
+(itemgroup (index 118) (group (1000 118)))
+
+(group (index 119) (money (920 125)))
+(itemgroup (index 119) (group (1000 119)))
+
+(group (index 120) (money (920 130)))
+(itemgroup (index 120) (group (1000 120)))
+
+(group (index 121) (money (920 135)))
+(itemgroup (index 121) (group (1000 121)))
+
+(group (index 122) (money (920 140)))
+(itemgroup (index 122) (group (1000 122)))
+
+(group (index 123) (money (920 145)))
+(itemgroup (index 123) (group (1000 123)))
+
+(group (index 124) (money (920 150)))
+(itemgroup (index 124) (group (1000 124)))
+
+(group (index 125) (money (920 155)))
+(itemgroup (index 125) (group (1000 125)))
+
+(group (index 126) (money (920 160)))
+(itemgroup (index 126) (group (1000 126)))
+
+(group (index 127) (money (920 165)))
+(itemgroup (index 127) (group (1000 127)))
+
+(group (index 128) (money (920 170)))
+(itemgroup (index 128) (group (1000 128)))
+
+(group (index 129) (money (920 175)))
+(itemgroup (index 129) (group (1000 129)))
+
+(group (index 130) (money (920 180)))
+(itemgroup (index 130) (group (1000 130)))
+
+(group (index 131) (money (920 185)))
+(itemgroup (index 131) (group (1000 131)))
+
+(group (index 132) (money (920 190)))
+(itemgroup (index 132) (group (1000 132)))
+
+(group (index 133) (money (920 195)))
+(itemgroup (index 133) (group (1000 133)))
+
+(group (index 134) (money (920 200)))
+(itemgroup (index 134) (group (1000 134)))
+
+(group (index 135) (money (920 205)))
+(itemgroup (index 135) (group (1000 135)))
+
+(group (index 136) (money (920 210)))
+(itemgroup (index 136) (group (1000 136)))
+
+(group (index 137) (money (920 215)))
+(itemgroup (index 137) (group (1000 137)))
+
+(group (index 138) (money (920 220)))
+(itemgroup (index 138) (group (1000 138)))
+
+(group (index 139) (money (920 225)))
+(itemgroup (index 139) (group (1000 139)))
+
+(group (index 140) (money (920 230)))
+(itemgroup (index 140) (group (1000 140)))
+
+(group (index 141) (money (920 235)))
+(itemgroup (index 141) (group (1000 141)))
+
+(group (index 142) (money (920 240)))
+(itemgroup (index 142) (group (1000 142)))
+
+(group (index 143) (money (920 245)))
+(itemgroup (index 143) (group (1000 143)))
+
+(group (index 144) (money (920 250)))
+(itemgroup (index 144) (group (1000 144)))
+
+(group (index 145) (money (920 255)))
+(itemgroup (index 145) (group (1000 145)))
+
+(group (index 146) (money (920 260)))
+(itemgroup (index 146) (group (1000 146)))
+
+(group (index 147) (money (920 265)))
+(itemgroup (index 147) (group (1000 147)))
+
+(group (index 148) (money (920 270)))
+(itemgroup (index 148) (group (1000 148)))
+
+(group (index 149) (money (920 275)))
+(itemgroup (index 149) (group (1000 149)))
+
+(group (index 150) (money (920 280)))
+(itemgroup (index 150) (group (1000 150)))
+
+(group (index 151) (money (920 285)))
+(itemgroup (index 151) (group (1000 151)))
+
+(group (index 152) (money (920 290)))
+(itemgroup (index 152) (group (1000 152)))
+
+(group (index 153) (money (920 295)))
+(itemgroup (index 153) (group (1000 153)))
+
+(group (index 154) (money (920 300)))
+(itemgroup (index 154) (group (1000 154)))
+
+(group (index 155) (money (920 305)))
+(itemgroup (index 155) (group (1000 155)))
+
+(group (index 156) (money (920 310)))
+(itemgroup (index 156) (group (1000 156)))
+
+(group (index 157) (money (920 315)))
+(itemgroup (index 157) (group (1000 157)))
+
+(group (index 158) (money (920 320)))
+(itemgroup (index 158) (group (1000 158)))
+
+(group (index 159) (money (920 325)))
+(itemgroup (index 159) (group (1000 159)))
+
+(group (index 160) (money (920 330)))
+(itemgroup (index 160) (group (1000 160)))
+
+(group (index 161) (money (920 335)))
+(itemgroup (index 161) (group (1000 161)))
+
+(group (index 162) (money (920 340)))
+(itemgroup (index 162) (group (1000 162)))
+
+(group (index 163) (money (920 345)))
+(itemgroup (index 163) (group (1000 163)))
+
+(group (index 164) (money (920 350)))
+(itemgroup (index 164) (group (1000 164)))
+
+(group (index 165) (money (920 355)))
+(itemgroup (index 165) (group (1000 165)))
+
+(group (index 166) (money (920 360)))
+(itemgroup (index 166) (group (1000 166)))
+
+(group (index 167) (money (920 365)))
+(itemgroup (index 167) (group (1000 167)))
+
+(group (index 168) (money (920 370)))
+(itemgroup (index 168) (group (1000 168)))
+
+(group (index 169) (money (920 375)))
+(itemgroup (index 169) (group (1000 169)))
+
+(group (index 170) (money (920 380)))
+(itemgroup (index 170) (group (1000 170)))
+
+(group (index 171) (money (920 385)))
+(itemgroup (index 171) (group (1000 171)))
+
+(group (index 172) (money (920 390)))
+(itemgroup (index 172) (group (1000 172)))
+
+(group (index 173) (money (920 395)))
+(itemgroup (index 173) (group (1000 173)))
+
+(group (index 174) (money (920 400)))
+(itemgroup (index 174) (group (1000 174)))
+
+(group (index 175) (money (920 405)))
+(itemgroup (index 175) (group (1000 175)))
+
+(group (index 176) (money (920 410)))
+(itemgroup (index 176) (group (1000 176)))
+
+(group (index 177) (money (920 415)))
+(itemgroup (index 177) (group (1000 177)))
+
+(group (index 178) (money (920 420)))
+(itemgroup (index 178) (group (1000 178)))
+
+(group (index 179) (money (920 425)))
+(itemgroup (index 179) (group (1000 179)))
+
+(group (index 180) (money (920 430)))
+(itemgroup (index 180) (group (1000 180)))
+
+(group (index 181) (money (920 435)))
+(itemgroup (index 181) (group (1000 181)))
+
+(group (index 182) (money (920 440)))
+(itemgroup (index 182) (group (1000 182)))
+
+(group (index 183) (money (920 445)))
+(itemgroup (index 183) (group (1000 183)))
+
+(group (index 184) (money (920 450)))
+(itemgroup (index 184) (group (1000 184)))
+
+(group (index 185) (money (920 455)))
+(itemgroup (index 185) (group (1000 185)))
+
+;--- Solo Area
+
+(group (index 250) (money (920 450)))
+(itemgroup (index 250) (group (1000 250)))
+
+(group (index 251) (money (920 455)))
+(itemgroup (index 251) (group (1000 251)))
+
+(group (index 252) (money (920 460)))
+(itemgroup (index 252) (group (1000 252)))
+
+(group (index 253) (money (920 465)))
+(itemgroup (index 253) (group (1000 253)))
+
+(group (index 254) (money (920 470)))
+(itemgroup (index 254) (group (1000 254)))
+
+(group (index 255) (money (920 475)))
+(itemgroup (index 255) (group (1000 255)))
+
+(group (index 256) (money (920 480)))
+(itemgroup (index 256) (group (1000 256)))
+
+(group (index 257) (money (920 485)))
+(itemgroup (index 257) (group (1000 257)))
+
+(group (index 258) (money (920 490)))
+(itemgroup (index 258) (group (1000 258)))
+
+(group (index 259) (money (920 495)))
+(itemgroup (index 259) (group (1000 259)))
+
+(group (index 260) (money (920 500)))
+(itemgroup (index 260) (group (1000 260)))
+
+;--- Monster (10k-50k)
+
+(group (index 300) (money (920 540)))
+(itemgroup (index 300) (group (1000 300)))
+
+(group (index 301) (money (920 545)))
+(itemgroup (index 301) (group (1000 301)))
+
+(group (index 302) (money (920 550)))
+(itemgroup (index 302) (group (1000 302)))
+
+(group (index 303) (money (920 555)))
+(itemgroup (index 303) (group (1000 303)))
+
+(group (index 304) (money (920 560)))
+(itemgroup (index 304) (group (1000 304)))
+
+(group (index 305) (money (920 565)))
+(itemgroup (index 305) (group (1000 305)))
+
+(group (index 306) (money (920 570)))
+(itemgroup (index 306) (group (1000 306)))
+
+(group (index 307) (money (920 575)))
+(itemgroup (index 307) (group (1000 307)))
+
+(group (index 308) (money (920 580)))
+(itemgroup (index 308) (group (1000 308)))
+
+(group (index 309) (money (920 585)))
+(itemgroup (index 309) (group (1000 309)))
+
+(group (index 310) (money (920 590)))
+(itemgroup (index 310) (group (1000 310)))
+
+(group (index 311) (money (920 595)))
+(itemgroup (index 311) (group (1000 311)))
+
+(group (index 312) (money (920 600)))
+(itemgroup (index 312) (group (1000 312)))
+
+(group (index 313) (money (920 605)))
+(itemgroup (index 313) (group (1000 313)))
+
+(group (index 314) (money (920 610)))
+(itemgroup (index 314) (group (1000 314)))
+
+(group (index 315) (money (920 615)))
+(itemgroup (index 315) (group (1000 315)))
+
+(group (index 316) (money (920 620)))
+(itemgroup (index 316) (group (1000 316)))
+
+(group (index 317) (money (920 625)))
+(itemgroup (index 317) (group (1000 317)))
+
+(group (index 318) (money (920 630)))
+(itemgroup (index 318) (group (1000 318)))
+
+(group (index 319) (money (920 635)))
+(itemgroup (index 319) (group (1000 319)))
+
+;--- Monster (50k-100k)
+
+(group (index 400) (money (920 740)))
+(itemgroup (index 400) (group (1000 400)))
+
+(group (index 401) (money (920 745)))
+(itemgroup (index 401) (group (1000 401)))
+
+(group (index 402) (money (920 750)))
+(itemgroup (index 402) (group (1000 402)))
+
+(group (index 403) (money (920 755)))
+(itemgroup (index 403) (group (1000 403)))
+
+(group (index 404) (money (920 760)))
+(itemgroup (index 404) (group (1000 404)))
+
+(group (index 405) (money (920 765)))
+(itemgroup (index 405) (group (1000 405)))
+
+(group (index 406) (money (920 770)))
+(itemgroup (index 406) (group (1000 406)))
+
+(group (index 407) (money (920 775)))
+(itemgroup (index 407) (group (1000 407)))
+
+(group (index 408) (money (920 780)))
+(itemgroup (index 408) (group (1000 408)))
+
+(group (index 409) (money (920 785)))
+(itemgroup (index 409) (group (1000 409)))
+
+(group (index 410) (money (920 790)))
+(itemgroup (index 410) (group (1000 410)))
+
+(group (index 411) (money (920 795)))
+(itemgroup (index 411) (group (1000 411)))
+
+(group (index 412) (money (920 800)))
+(itemgroup (index 412) (group (1000 412)))
+
+(group (index 413) (money (920 805)))
+(itemgroup (index 413) (group (1000 413)))
+
+(group (index 414) (money (920 810)))
+(itemgroup (index 414) (group (1000 414)))
+
+(group (index 415) (money (920 815)))
+(itemgroup (index 415) (group (1000 415)))
+
+(group (index 416) (money (920 820)))
+(itemgroup (index 416) (group (1000 416)))
+
+(group (index 417) (money (920 825)))
+(itemgroup (index 417) (group (1000 417)))
+
+(group (index 418) (money (920 830)))
+(itemgroup (index 418) (group (1000 418)))
+
+;--- HP Monster (100k-150k)
+
+(group (index 500) (money (920 940)))
+(itemgroup (index 500) (group (1000 500)))
+
+(group (index 501) (money (920 945)))
+(itemgroup (index 501) (group (1000 501)))
+
+(group (index 502) (money (920 950)))
+(itemgroup (index 502) (group (1000 502)))
+
+(group (index 503) (money (920 955)))
+(itemgroup (index 503) (group (1000 503)))
+
+(group (index 504) (money (920 960)))
+(itemgroup (index 504) (group (1000 504)))
+
+(group (index 505) (money (920 965)))
+(itemgroup (index 505) (group (1000 505)))
+
+(group (index 506) (money (920 970)))
+(itemgroup (index 506) (group (1000 506)))
+
+(group (index 507) (money (920 975)))
+(itemgroup (index 507) (group (1000 507)))
+
+(group (index 508) (money (920 980)))
+(itemgroup (index 508) (group (1000 508)))
+
+(group (index 509) (money (920 985)))
+(itemgroup (index 509) (group (1000 509)))
+
+(group (index 510) (money (920 990)))
+(itemgroup (index 510) (group (1000 510)))
+
+(group (index 511) (money (920 995)))
+(itemgroup (index 511) (group (1000 511)))
+
+(group (index 512) (money (920 1000)))
+(itemgroup (index 512) (group (1000 512)))
+
+(group (index 513) (money (920 1005)))
+(itemgroup (index 513) (group (1000 513)))
+
+(group (index 514) (money (920 1010)))
+(itemgroup (index 514) (group (1000 514)))
+
+(group (index 515) (money (920 1015)))
+(itemgroup (index 515) (group (1000 515)))
+
+(group (index 516) (money (920 1020)))
+(itemgroup (index 516) (group (1000 516)))
+
+(group (index 517) (money (920 1025)))
+(itemgroup (index 517) (group (1000 517)))
+
+(group (index 518) (money (920 1030)))
+(itemgroup (index 518) (group (1000 518)))
+
+;--- HP Monster (150k-200k)
+
+(group (index 600) (money (920 1140)))
+(itemgroup (index 600) (group (1000 600)))
+
+(group (index 601) (money (920 1145)))
+(itemgroup (index 601) (group (1000 601)))
+
+(group (index 602) (money (920 1150)))
+(itemgroup (index 602) (group (1000 602)))
+
+(group (index 603) (money (920 1155)))
+(itemgroup (index 603) (group (1000 603)))
+
+(group (index 604) (money (920 1160)))
+(itemgroup (index 604) (group (1000 604)))
+
+(group (index 605) (money (920 1165)))
+(itemgroup (index 605) (group (1000 605)))
+
+(group (index 606) (money (920 1170)))
+(itemgroup (index 606) (group (1000 606)))
+
+(group (index 607) (money (920 1175)))
+(itemgroup (index 607) (group (1000 607)))
+
+(group (index 608) (money (920 1180)))
+(itemgroup (index 608) (group (1000 608)))
+
+(group (index 609) (money (920 1185)))
+(itemgroup (index 609) (group (1000 609)))
+
+(group (index 610) (money (920 1190)))
+(itemgroup (index 610) (group (1000 610)))
+
+(group (index 611) (money (920 1195)))
+(itemgroup (index 611) (group (1000 611)))
+
+(group (index 612) (money (920 1200)))
+(itemgroup (index 612) (group (1000 612)))
+
+(group (index 613) (money (920 1205)))
+(itemgroup (index 613) (group (1000 613)))
+
+(group (index 614) (money (920 1210)))
+(itemgroup (index 614) (group (1000 614)))
+
+(group (index 615) (money (920 1215)))
+(itemgroup (index 615) (group (1000 615)))
+
+(group (index 616) (money (920 1220)))
+(itemgroup (index 616) (group (1000 616)))
+
+(group (index 617) (money (920 1225)))
+(itemgroup (index 617) (group (1000 617)))
+
+(group (index 618) (money (920 1230)))
+(itemgroup (index 618) (group (1000 618)))
+
+;--- Wooden Box
+
+(group (index 700) (money (920 1450)))
+(itemgroup (index 700) (group (1000 700)))
+
+(group (index 701) (money (920 1625)))
+(itemgroup (index 701) (group (1000 701)))
+
+(group (index 702) (money (920 1800)))
+(itemgroup (index 702) (group (1000 702)))
+
+(group (index 703) (money (920 1975)))
+(itemgroup (index 703) (group (1000 703)))
+
+(group (index 704) (money (920 2150)))
+(itemgroup (index 704) (group (1000 704)))
+
+(group (index 705) (money (920 2325)))
+(itemgroup (index 705) (group (1000 705)))
+
+(group (index 706) (money (920 2500)))
+(itemgroup (index 706) (group (1000 706)))
+
+;--- Treasure Chest
+
+(group (index 710) (money (920 7500)))
+(itemgroup (index 710) (group (1000 710)))
+
+;--- Boss
+
+(group (index 800) (money (920 1540000)))
+(itemgroup (index 800) (group (1000 800)))
+
+;Lord
+(group (index 801) (money (920 1740000)))
+(itemgroup (index 801) (group (1000 801)))
+
+;Ghost
+(group (index 802) (money (920 1940000)))
+(itemgroup (index 802) (group (1000 802)))
+
+;Devil Monster
+(group (index 803) (money (920 25000)))
+(itemgroup (index 803) (group (1000 803)))
+
+;--
+
+;Floor 10 Boss
+(group (index 876) (money (920 2250000)))
+(itemgroup (index 876) (group (1000 876)))
+
+;--------------------------------------------------------
+;[Armors & Weapons] Groups
+;--------------------------------------------------------
+
+;Knight Armors G42+2 STR
+(group (index 1000) (item (50 117 2) (100 118 2) (150 119 2) (200 120 2) (250 121 2)))
+
+;Knight Armors G46
+(group (index 1001) (item (40 251 0) (80 252 0) (120 253 0) (160 254 0) (200 255 0)))
+
+;Knight Armors G50
+(group (index 1002) (item (12 372 0) (24 373 0) (36 374 0) (48 375 0) (60 376 0)))
+
+;Knight Armors/Shield G55
+(group (index 1003) (item (5 621 0) (10 622 0) (15 623 0) (20 624 0) (25 625 0) (30 1088 0)))
+
+;Knight Armors G60 (Side)
+(group (index 1004) (item (2 1125 0) (4 1126 0) (6 1127 0)))
+
+;---
+
+;Knight Weapons G40 Strong Knight's
+(group (index 1025) (item (50 100 70) (100 101 70) (150 102 70) (200 30 0))) 
+
+;Knight Weapons G45 Expert Knight's
+(group (index 1026) (item (45 103 71) (90 104 71) (135 429 0))) 
+
+;Knight Weapons G48
+(group (index 1027) (item (40 572 0) (80 573 0) (120 574 0) (160 430 0)))
+
+;Knight Weapons G50
+(group (index 1028) (item (10 242 0) (20 243 0) (30 244 0) (40 440 0) (50 441 0) (60 442 0) (70 431 0)))
+
+;Knight Weapons G53
+(group (index 1029) (item (8 457 0) (16 458 0) (24 459 0) (32 460 0) (40 461 0) (48 462 0)))
+
+;Knight Weapons G56
+(group (index 1030) (item (6 560 0) (12 561 0) (18 562 0) (24 563 0) (30 564 0) (36 565 0)))
+
+;Knight Weapons G59
+(group (index 1031) (item (2 584 0) (4 585 0) (6 586 0) (8 587 0) (10 588 0) (12 589 0)))
+
+;--------------------------------------------------------
+
+;Archer Armors G42+2 AGI
+(group (index 1100) (item (50 122 42) (100 123 42) (150 124 42) (200 125 42) (250 126 42)))
+
+;Archer Armors G46
+(group (index 1101) (item (40 256 0) (80 257 0) (120 258 0) (160 259 0) (200 260 0)))
+
+;Archer Armors G50
+(group (index 1102) (item (12 377 0) (24 378 0) (36 379 0) (48 380 0) (60 381 0)))
+
+;Archer Armors G55
+(group (index 1103) (item (5 626 0) (10 627 0) (15 628 0) (20 629 0) (25 630 0)))
+
+;Archer Armors G60 (Side)
+(group (index 1104) (item (2 1130 0) (4 1131 0) (6 1132 0)))
+
+;---
+
+;Archer Weapons G40 Skillful Archer's
+(group (index 1125) (item (50 106 74) (150 107 74) (200 108 74))) 
+
+;Archer Weapons G45 Expert Archer's
+(group (index 1126) (item (45 109 75) (90 110 75))) 
+
+;Archer Weapons G48
+(group (index 1127) (item (40 578 0) (80 579 0) (120 580 0)))
+
+;Archer Weapons G50
+(group (index 1128) (item (10 245 0) (20 246 0) (30 247 0)))
+
+;Archer Weapons G53
+(group (index 1129) (item (8 463 0) (16 464 0) (24 465 0)))
+
+;Archer Weapons G56
+(group (index 1130) (item (6 566 0) (12 567 0) (18 568 0)))
+
+;Archer Weapons G59
+(group (index 1131) (item (2 590 0) (4 591 0) (6 592 0)))
+
+;--------------------------------------------------------
+
+;Magician Armors G42+2 INT
+(group (index 1200) (item (50 127 22) (100 128 22) (150 129 22) (200 130 22) (250 131 22)))
+
+;Magician Armors G46
+(group (index 1201) (item (40 261 0) (80 262 0) (120 263 0) (160 264 0) (200 265 0)))
+
+;Magician Armors G50
+(group (index 1202) (item (12 382 0) (24 383 0) (36 384 0) (48 385 0) (60 386 0)))
+
+;Magician Armors G55
+(group (index 1203) (item (5 631 0) (10 632 0) (15 633 0) (20 634 0) (25 635 0)))
+
+;Magician Armors G60 (Side)
+(group (index 1204) (item (2 1135 0) (4 1136 0) (6 1137 0)))
+;---
+
+;Magician Weapons G40 Skillful Scholar's
+(group (index 1225) (item (50 112 78) (100 113 78) (150 114 78))) 
+
+;Magician Weapons G45 Expert Scholar's
+(group (index 1226) (item (45 115 79) (90 116 79))) 
+
+;Magician Weapons G48
+(group (index 1227) (item (40 581 0) (80 582 0) (120 583 0)))
+
+;Magician Weapons G50
+(group (index 1228) (item (10 248 0) (20 249 0) (30 250 0)))
+
+;Magician Weapons G53
+(group (index 1229) (item (8 466 0) (16 467 0) (24 468 0)))
+
+;Magician Weapons G56
+(group (index 1230) (item (6 569 0) (12 570 0) (18 571 0)))
+
+;Magician Weapons G59
+(group (index 1231) (item (2 593 0) (4 594 0) (6 595 0)))
+
+;--------------------------------------------------------
+;[Extra Items]
+;--------------------------------------------------------
+
+;TOA, TOD, BOF
+(group (index 1400) (item (10 220 0) (20 221 0) (30 8105 0)))
+
+;KalCash Scrolls
+(group (index 1401) (item (10 524 0) (20 525 0) (30 527 0) (40 528 0) (50 529 0)))
+
+;KalCash Potions
+(group (index 1402) (item (10 533 0) (20 534 0) (30 535 0) (40 536 0) (50 537 0)))
+
+;Mixing Stone - D4
+(group (index 1404) (item (20 895 0) (40 896 0) (60 897 0) (80 898 0) (100 899 0) (120 900 0) (140 901 0) (150 902 0) (160 903 0)))
+
+;Mixing Stone - Overall
+(group (index 1406) (item (20 895 0) (40 896 0) (60 897 0) (80 898 0) (100 899 0) (120 900 0) (140 901 0) (150 902 0) (160 903 0)))
+
+;--
+
+;Piece of Unknown World & Essence of Undead
+(group (index 1405) (item (300 1621 0) (320 1617 0)))
+(itemgroup (index 1405) (group (150 1405)))
+
+;Piece of Unknown World & Essence of Undead (F4-5-6)
+(group (index 1425) (item (125 1621 0) (135 1617 0)))
+(itemgroup (index 1425) (group (75 1425)))
+
+;--
+
+;First Piece of Bronze Mirror
+(group (index 1450) (item (70 641 0)))
+(itemgroup (index 1450) (group (50 1450)))
+
+;Second Piece of Bronze Mirror
+(group (index 1451) (item (60 642 0)))
+(itemgroup (index 1451) (group (50 1451)))
+
+;Third Piece of Bronze Mirror
+(group (index 1452) (item (50 643 0)))
+(itemgroup (index 1452) (group (50 1452)))
+
+;Forth Piece of Bronze Mirror
+(group (index 1453) (item (40 644 0)))
+(itemgroup (index 1453) (group (30 1453)))
+
+;Fifth Piece of Bronze Mirror
+(group (index 1454) (item (30 645 0)))
+(itemgroup (index 1454) (group (30 1454)))
+
+;Six Piece of Bronze Mirror
+(group (index 1455) (item (25 646 0)))
+(itemgroup (index 1455) (group (30 1455)))
+
+;Seventh Piece of Bronze Mirror
+(group (index 1456) (item (20 647 0)))
+(itemgroup (index 1456) (group (25 1456)))
+
+;Eighth Piece of Bronze Mirror
+(group (index 1457) (item (15 648 0)))
+(itemgroup (index 1457) (group (25 1457)))
+
+;Eighth Piece of Bronze Mirror
+(group (index 1458) (item (10 648 0)))
+(itemgroup (index 1458) (group (20 1458)))
+
+;--------------------------------------------------------
+;[Talismans]
+;--------------------------------------------------------
+
+;Talisman of Protection
+(group (index 1500) (item (30 319 0) (60 320 0) (90 321 0)))
+
+;Talisman of Wonder
+(group (index 1501) (item (30 276 0) (60 284 0) (90 292 0) (120 300 0) (150 308 0)))
+
+;Talisman of Intesification
+(group (index 1502) (item (20 327 0) (40 328 0) (60 329 0) (80 330 0) (100 331 0)))
+
+;---
+
+;Talisman of Protection
+(group (index 1510) (item (20 322 0) (40 323 0) (60 324 0) (80 325 0) (100 326 0)))
+
+;Talisman of Wonder
+(group (index 1511) (item (20 277 0) (40 285 0) (60 293 0) (80 301 0) (100 309 0)))
+
+;Talisman of Intesification (Legendary & King)
+(group (index 1512) (item (10 332 0) (15 523 0)))
+
+;--------------------------------------------------------
+;[Imperfects]
+;--------------------------------------------------------
+
+;Imperfect Earth Element
+(group (index 1600) (item (300 1503 0)))
+(itemgroup (index 1600) (group (350 1600)))
+
+
+;Imperfect Water Element
+(group (index 1601) (item (300 1500 0)))
+(itemgroup (index 1601) (group (350 1601)))
+
+;Imperfect Fire Element
+(group (index 1602) (item (300 1499 0)))
+(itemgroup (index 1602) (group (350 1602)))
+
+
+;Imperfect Wood Element
+(group (index 1603) (item (300 1501 0)))
+(itemgroup (index 1603) (group (350 1603)))
+
+
+;Imperfect Iron Element
+(group (index 1604) (item (300 1502 0)))
+(itemgroup (index 1604) (group (350 1604)))
+
+;---
+
+;Imperfect Earth Element & Element (Major)
+(group (index 1610) (item (300 1503 0) (305 1465 0)))
+(itemgroup (index 1610) (group (450 1610)))
+
+
+;Imperfect Water Element & Element (Major)
+(group (index 1611) (item (300 1500 0) (305 1462 0)))
+(itemgroup (index 1611) (group (450 1611)))
+
+
+;Imperfect Fire Element & Element (Major)
+(group (index 1612) (item (300 1499 0) (305 1461 0)))
+(itemgroup (index 1612) (group (450 1612)))
+
+
+;Imperfect Wood Element & Element (Major)
+(group (index 1613) (item (300 1501 0) (305 1463 0)))
+(itemgroup (index 1613) (group (350 1613)))
+
+
+;Imperfect Iron Element & Element (Major)
+(group (index 1614) (item (300 1502 0) (305 1464 0)))
+(itemgroup (index 1614) (group (350 1614)))
+
+;---
+
+;TOP Elements
+(group (index 1620) (item (60 1503 0) (120 1500 0) (180 1499 0) (240 1501 0) (300 1502 0)))
+(itemgroup (index 1620) (group (140 1620)))
+
+;TOP Elements (Shiny)
+(group (index 1621) (item (20 1503 0) (40 1500 0) (60 1499 0) (80 1501 0) (100 1502 0)))
+(itemgroup (index 1621) (group (70 1621)))
+
+;--------------------------------------------------------
+;[3rd Job - Boss Items]
+;--------------------------------------------------------
+
+;Horn of Doggebi Lord
+(group (index 1650) (item (10 1498 0)))
+(itemgroup (index 1650) (group (50 1650)))
+
+;Lord's Jaw
+(group (index 1651) (item (500 1494 0)))
+(itemgroup (index 1651) (group (1000 1651)))
+
+;Complete E-moogy's Scale
+(group (index 1652) (item (50 1497 0)))
+(itemgroup (index 1652) (group (100 1652)))
+
+;Monster' Right Arm
+(group (index 1653) (item (500 1495 0)))
+(itemgroup (index 1653) (group (1000 1653)))
+
+;Complete E-moogy's Scale (Low Drop) [Ghost etc]
+(group (index 1654) (item (10 1497 0)))
+(itemgroup (index 1654) (group (50 1654)))
+
+;--------------------------------------------------------
+;[ItemGroups]
+;--------------------------------------------------------
+
+;Main (Outdoor)
+;Low Level (1-49)
+(itemgroup (index 2000) (group (30 1400) (60 1401) (90 1402) (120 1500) (150 1501) (180 1502))) 
+;Med Level (50-69)
+(itemgroup (index 2001) (group (40 1400) (80 1401) (120 1402) (160 1500) (200 1501) (240 1502) (250 1406))) 
+;High Level (70-84)
+(itemgroup (index 2002) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (310 1406))) 
+;High Level (85-100)
+(itemgroup (index 2003) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (370 1406))) 
+
+;Main (Dungeon 1)
+;Low Level (1-49)
+(itemgroup (index 2010) (group (30 1400) (30 1401) (90 1402) (120 1500) (150 1501) (180 1502))) 
+;Med Level (50-69)
+(itemgroup (index 2011) (group (40 1400) (80 1401) (120 1402) (160 1500) (200 1501) (240 1502))) 
+
+;Main (Solo Area)
+;Low Level (1-49)
+(itemgroup (index 2020) (group (50 1400) (100 1401) (150 1402) (200 1500) (250 1501) (300 1502)))
+;Med Level (50-69)
+(itemgroup (index 2021) (group (60 1400) (120 1401) (180 1402) (240 1500) (300 1501) (360 1502) (370 1406)))
+;High Level (70-84)
+(itemgroup (index 2022) (group (70 1400) (140 1401) (210 1402) (280 1510) (350 1511) (420 1512) (430 1406)))
+;High Level (85-100)
+(itemgroup (index 2023) (group (80 1400) (180 1401) (260 1402) (340 1510) (420 1511) (500 1512) (510 1406))) 
+
+;Main (Dungeon 2 & DeadLand)
+;Low Level (1-49)
+(itemgroup (index 2030) (group (30 1400) (60 1401) (90 1402) (120 1500) (150 1501) (180 1502) (195 1404)))
+;Med Level (50-69) 
+(itemgroup (index 2031) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (255 1404)))
+;High Level (70-84) 
+(itemgroup (index 2032) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (315 1404)))
+;High Level (85-100) 
+(itemgroup (index 2033) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (375 1404))) 
+
+;Main (Dungeon 3)
+;Low Level (1-49)
+(itemgroup (index 2040) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (190 1406))) 
+;Med Level (50-69)
+(itemgroup (index 2041) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (250 1406))) 
+;High Level (70-84)
+(itemgroup (index 2042) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (310 1406))) 
+;High Level (85-100)
+(itemgroup (index 2043) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (370 1406))) 
+
+;Main (Tower of Priest)
+;Low Level (1-49)
+(itemgroup (index 2050) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (210 1505) (220 1406)))
+;Med Level (50-69) 
+(itemgroup (index 2051) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (280 1505) (290 1406)))
+;High Level (70-84) 
+(itemgroup (index 2052) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (350 1505) (360 1406))) 
+;High Level (85-100)
+(itemgroup (index 2053) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (420 1505) (430 1406))) 
+;TOP F8/F9
+(itemgroup (index 2054) (group (60 1400) (120 1505)))
+
+;Main (Tower of Priest) F4-5-6
+;High Level (70-84)
+(itemgroup (index 2062) (group (25 1400) (50 1401) (75 1402) (100 1510) (125 1511) (150 1512) (175 1505) (180 1406))) 
+;High Level (85-100)
+(itemgroup (index 2063) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (210 1505) (215 1406))) 
+
+;Wooden Box
+(itemgroup (index 2100) (group (100 1401) (200 1402)))
+(itemgroup (index 2101) (group (100 1401) (200 1402)))
+
+;------------------------;
+;--- [Treasure Chest] ---;
+;------------------------;
+
+;KalCash Scrolls
+(group (index 2110) (item (20 524 0) (40 525 0) (60 527 0) (80 528 0) (100 529 0)))
+
+;KalCash Potions
+(group (index 2111) (item (20 533 0) (40 534 0) (60 535 0) (80 536 0) (100 537 0)))
+
+;KalCash Items (Horn/Polish/Rb/saving/moving)
+(group (index 2112) (item (15 515 0) (30 481 0) (45 482 0) (60 511 0) (70 509 0)))
+
+;Pet 1 day
+(group (index 2113) (item (25 4336 0) (50 7722 0)))
+
+(itemgroup (index 2110) (group (300 2110) (600 2111) (900 2112) (950 2113)))
+
+;----
+
+;Earth element master - Essence
+(group (index 8520) (item (20 1616 0)))
+
+;Fire element master - Essence
+(group (index 8521) (item (20 1612 0)))
+
+;Water element master - Essence
+(group (index 8522) (item (20 1613 0)))
+
+;Iron element master - Essence
+(group (index 8523) (item (20 1615 0)))
+
+;Wood element master - Essence
+(group (index 8524) (item (20 1614 0)))
+
+
+;TOP F8 + ESSENCE
+(itemgroup (index 2600) (group (90 1401) (180 1402) (270 1403) (360 1510) (450 1511) (540 1512) (560 8520))) ;F8 (KalCash/Talisman/earth essence)
+(itemgroup (index 2601) (group (90 1401) (180 1402) (270 1403) (360 1510) (450 1511) (540 1512) (560 8521))) ;F8 (KalCash/Talisman/fire essence)
+(itemgroup (index 2602) (group (90 1401) (180 1402) (270 1403) (360 1510) (450 1511) (540 1512) (560 8522))) ;F8 (KalCash/Talisman/water essence)
+(itemgroup (index 2603) (group (90 1401) (180 1402) (270 1403) (360 1510) (450 1511) (540 1512) (560 8523))) ;F8 (KalCash/Talisman/iron essence)
+(itemgroup (index 2604) (group (90 1401) (180 1402) (270 1403) (360 1510) (450 1511) (540 1512) (560 8524))) ;F8 (KalCash/Talisman/wood essence)
+
+;TOP F9
+(itemgroup (index 2620) (group (110 1401) (220 1402) (330 1403) (440 1510) (550 1511) (660 1512) (680 8520))) ;F9 (KalCash/Talisman/earth essence)
+(itemgroup (index 2621) (group (110 1401) (220 1402) (330 1403) (440 1510) (550 1511) (660 1512) (680 8521))) ;F9 (KalCash/Talisman/fire essence)
+(itemgroup (index 2622) (group (110 1401) (220 1402) (330 1403) (440 1510) (550 1511) (660 1512) (680 8522))) ;F9 (KalCash/Talisman/water essence)
+(itemgroup (index 2623) (group (110 1401) (220 1402) (330 1403) (440 1510) (550 1511) (660 1512) (680 8523))) ;F9 (KalCash/Talisman/iron essence)
+(itemgroup (index 2624) (group (110 1401) (220 1402) (330 1403) (440 1510) (550 1511) (660 1512) (680 8524))) ;F9 (KalCash/Talisman/wood essence)
+
+;----
+
+;Forsaken Fort (G40 & G42)
+(itemgroup (index 3000) (group (40 1000) (80 1100) (120 1200) (160 1025) (200 1125) (240 1225))) 
+
+;Dungeon 1 (G45, G46 & G48)
+(itemgroup (index 3001) (group (30 1001) (60 1101) (90 1201) (120 1026) (150 1126) (180 1226) (210 1027) (240 1127) (270 1227)))
+
+;Dungeon 2 (G50 & G53)
+(itemgroup (index 3002) (group (20 1002) (40 1102) (60 1202) (80 1028) (100 1128) (120 1228) (135 1029) (150 1129) (165 1229)))
+
+;Dungeon 3 (G50, G53)
+(itemgroup (index 3003) (group (25 1002) (50 1102) (75 1202) (95 1028) (115 1128) (135 1228) (150 1029) (175 1129) (190 1229)))
+
+;Dungeon 3 (G50, G53 & G56)
+(itemgroup (index 3063) (group (25 1002) (50 1102) (75 1202) (95 1028) (115 1128) (135 1228) (150 1029) (175 1129) (190 1229) (200 1030) (210 1130) (220 1230)))
+
+;Dungeon 3 F8+ (G50, G53, G56 & G55)
+(itemgroup (index 3053) (group (25 1002) (50 1102) (75 1202) (95 1028) (115 1128) (135 1228) (150 1029) (175 1129) (190 1229) (200 1030) (210 1130) (220 1230) (225 1003) (230 1103) (235 1203)))
+
+;HighLand of Sky (G50, G53)
+(itemgroup (index 3004) (group (25 1002) (50 1102) (75 1202) (95 1028) (115 1128) (135 1228) (150 1029) (175 1129) (190 1229)))
+
+;Safe Hill (G50, G53 & G56)
+(itemgroup (index 3005) (group (25 1002) (50 1102) (75 1202) (95 1028) (115 1128) (135 1228) (150 1029) (175 1129) (190 1229) (200 1030) (210 1130) (220 1230)))
+
+;Forest of Element- Minor (G56, G55 & G59)
+(itemgroup (index 3006) (group (15 1030) (30 1130) (45 1230) (57 1003) (69 1103) (81 1203) (93 1031) (105 1131) (117 1231)))
+
+;Forest of Element - Major (G55, G59 & G60 Side)
+(itemgroup (index 3007) (group (14 1003) (28 1103) (42 1203) (56 1031) (70 1131) (84 1231)))
+
+;Tower of Priest F1-F3 (G55, G59 & G60 Side)
+(itemgroup (index 3008) (group (10 1003) (20 1103) (30 1203) (40 1031) (50 1131) (60 1231)))
+
+;Tower of Priest F4-F5-F6 (G55, G59 & G60 Side)
+(itemgroup (index 3009) (group (5 1003) (10 1103) (15 1203) (20 1031) (25 1131) (30 1231)))
+
+;Tower of Priest Floor 7 (G55, G59, G60 Side & G62 Weapon)
+(itemgroup (index 3010) (group (10 1003) (20 1103) (30 1203) (40 1031) (50 1131) (60 1231)))
+
+;Tower of Priest F8 (G60, G62)
+(itemgroup (index 3011) (group (6 1004) (12 1104) (18 1204) (24 1032) (30 1132) (36 1232)))
+
+;Tower of Priest F9 (G60, G62)
+(itemgroup (index 3012) (group (10 1004) (20 1104) (30 1204) (40 1032) (50 1132) (60 1232)))
+
+;E-Mok Island (G55, G59 & G60 Side)
+(itemgroup (index 3013) (group (12 1003) (24 1103) (36 1203) (48 1031) (60 1131) (72 1231)))
+
+;E-Mok Island A5+ (Temporary G55, G59)(G60 & G62)
+(itemgroup (index 3014) (group (13 1003) (26 1103) (39 1203) (52 1031) (65 1131) (78 1231)))
+
+;Dungeon 4 - Guard (G56 & G55)
+(itemgroup (index 3015) (group (15 1030) (30 1130) (45 1230) (57 1003) (69 1103) (81 1203)))
+
+;Dungeon 4 - Patrol (G56 & G55) 
+(itemgroup (index 3016) (group (15 1030) (30 1130) (45 1230) (57 1003) (69 1103) (81 1203)))
+
+;Dungeon 4 - Warrior (G55 & G59)
+(itemgroup (index 3017) (group (12 1003) (24 1103) (36 1203) (48 1031) (60 1131) (72 1231)))
+
+;Dungeon 4 - Infantry (G55 & G59)
+(itemgroup (index 3018) (group (13 1003) (26 1103) (39 1203) (52 1031) (65 1131) (78 1231)))
+
+;Dungeon 4 - Crazy (G55 & G59)
+(itemgroup (index 3019) (group (14 1003) (28 1103) (42 1203) (56 1031) (70 1131) (84 1231)))
+
+;Dungeon 4 - Defender (G55 & G59)
+(itemgroup (index 3020) (group (15 1003) (30 1103) (45 1203) (60 1031) (75 1131) (90 1231)))
+
+;--------------------------------------------------------
+;[Shadow of D'evah]
+;--------------------------------------------------------
+
+;Dawn Shadow of D'evah
+(group (index 3500) (item (300 5000 0) (600 5001 0) (900 5002 0)))
+(itemgroup (index 3500) (group (700 3500)))
+
+;Devil Shadow of D'evah
+(group (index 3501) (item (300 5005 0) (600 5006 0) (900 5007 0)))
+(itemgroup (index 3501) (group (700 3501)))
+
+;Nightmare Shadow of D'evah
+(group (index 3502) (item (300 5010 0) (600 5011 0) (900 5012 0)))
+(itemgroup (index 3502) (group (700 3502)))
+
+;Hell Shadow of D'evah
+(group (index 3503) (item (300 5015 0) (600 5016 0) (900 5017 0)))
+(itemgroup (index 3503) (group (700 3503)))
+
+;Geons
+(group (index 3510) (money (920 12500)))
+(itemgroup (index 3510) (group (1000 3510)))
+
+(group (index 3511) (money (920 20000)))
+(itemgroup (index 3511) (group (1000 3511)))
+
+(group (index 3512) (money (920 24500)))
+(itemgroup (index 3512) (group (1000 3512)))
+
+(group (index 3513) (money (920 32000)))
+(itemgroup (index 3513) (group (1000 3513)))
+
+;--------------------------------------------------------
+;[Shinra Online] Boss Drop
+;--------------------------------------------------------
+
+;Earth element master - Essence
+(group (index 5800) (item (1000 1616 0)))
+(itemgroup (index 5800) (group (1000 5800)))
+
+;Fire element master - Essence
+(group (index 5801) (item (1000 1612 0)))
+(itemgroup (index 5801) (group (1000 5801)))
+
+;Water element master - Essence
+(group (index 5802) (item (1000 1613 0)))
+(itemgroup (index 5802) (group (1000 5802)))
+
+;Iron element master - Essence
+(group (index 5803) (item (1000 1615 0)))
+(itemgroup (index 5803) (group (1000 5803)))
+
+;Wood element master - Essence
+(group (index 5804) (item (1000 1614 0)))
+(itemgroup (index 5804) (group (1000 5804)))
+
+;Ghost Dragon - Scales
+(group (index 5805) (item (1000 1497 0)))
+(itemgroup (index 5805) (group (1000 5805)))
+
+;Doggebi Lord - Horns
+(group (index 5806) (item (1000 1498 0)))
+(itemgroup (index 5806) (group (1000 5806)))
+
+;---
+
+;BOF
+(group (index 5850) (item (1000 8105 0)))
+(itemgroup (index 5850) (group (1000 5850)))
+
+;--------------------------------------------------------
+;[Shinra Online] Attendance Reward
+;--------------------------------------------------------
+
+;--------------------------------------------------------
+;[Shinra Online] Quest
+;--------------------------------------------------------
+
+;Devil Troop of Desire's Sealed Talisman
+(group (index 6000) (item (1000 8700 0)))
+(itemgroup (index 6000) (group (1000 6000)))
+
+;Devil Troop of Pain's Sealed Talisman
+(group (index 6001) (item (1000 8701 0)))
+(itemgroup (index 6001) (group (1000 6001)))
+
+;Devil Troop of Greed's Sealed Talisman
+(group (index 6002) (item (1000 8702 0)))
+(itemgroup (index 6002) (group (1000 6002)))
+
+;Devil Troop of Jealousy's Sealed Talisman
+(group (index 6003) (item (1000 8703 0)))
+(itemgroup (index 6003) (group (1000 6003)))
+
+;Devil Troop of Hatred's Sealed Talisman
+(group (index 6004) (item (1000 8704 0)))
+(itemgroup (index 6004) (group (1000 6004)))
+
+;Devil Troop of Madness's Sealed Talisman
+(group (index 6005) (item (1000 8705 0)))
+(itemgroup (index 6005) (group (1000 6005)))
+
+;Devil Troop of Anger's Sealed Talisman
+(group (index 6006) (item (1000 8706 0)))
+(itemgroup (index 6006) (group (1000 6006)))
+
+;Spirit of Doggebi of Monster Face
+(group (index 6010) (item (1000 8710 0)))
+(itemgroup (index 6010) (group (1000 6010)))
+
+;Spirit of Doggebi with a Gong
+(group (index 6011) (item (1000 8711 0)))
+(itemgroup (index 6011) (group (1000 6011)))
+
+;Spirit of Drunken Doggebi
+(group (index 6012) (item (1000 8712 0)))
+(itemgroup (index 6012) (group (1000 6012)))
+
+;Spirit of Doggebi with a Mask of Black Crow
+(group (index 6013) (item (1000 8713 0)))
+(itemgroup (index 6013) (group (1000 6013)))
+
+;Spirit of Doggebi with a Mask of Black Panther
+(group (index 6014) (item (1000 8714 0)))
+(itemgroup (index 6014) (group (1000 6014)))
+
+;Spirit of Giant Doggebi
+(group (index 6015) (item (1000 8715 0)))
+(itemgroup (index 6015) (group (1000 6015)))
+
+;Spirit of Guardian of Doggebi
+(group (index 6016) (item (1000 8716 0)))
+(itemgroup (index 6016) (group (1000 6016)))
+
+;High Class Monster Face Fire
+(group (index 6020) (item (1000 8720 0)))
+(itemgroup (index 6020) (group (1000 6020)))
+
+;High Class Monster with Gong Fire
+(group (index 6021) (item (1000 8721 0)))
+(itemgroup (index 6021) (group (1000 6021)))
+
+;High Class Black Crow Fire
+(group (index 6022) (item (1000 8722 0)))
+(itemgroup (index 6022) (group (1000 6022)))
+
+;Demon Crack Soldier Soul
+(group (index 6023) (item (1000 8723 0)))
+(itemgroup (index 6023) (group (1000 6023)))
+
+;White Beast of Demon Crack Troop Soul
+(group (index 6024) (item (1000 8724 0)))
+(itemgroup (index 6024) (group (1000 6024)))
+
+;Hermit of White Beard Soul
+(group (index 6025) (item (1000 8725 0)))
+(itemgroup (index 6025) (group (1000 6025)))
+
+;Gigantic Species Shock Trooper Blood Crystal
+(group (index 6026) (item (1000 8726 0)))
+(itemgroup (index 6026) (group (1000 6026)))
+
+;Gigantic Species Ignoramus Blood Crystal
+(group (index 6027) (item (1000 8727 0)))
+(itemgroup (index 6027) (group (1000 6027)))
+
+;Gigantic Species Berserk Blood Crystal
+(group (index 6028) (item (1000 8728 0)))
+(itemgroup (index 6028) (group (1000 6028)))
+
+;Earth Element
+(group (index 6030) (item (1000 8730 0)))
+(itemgroup (index 6030) (group (1000 6030)))
+
+;Wood Element
+(group (index 6031) (item (1000 8731 0)))
+(itemgroup (index 6031) (group (1000 6031)))
+
+;Fire Element
+(group (index 6032) (item (1000 8732 0)))
+(itemgroup (index 6032) (group (1000 6032)))
+
+;--------------------------------------------------------
+;[Shinra Online] Doggebi Certificate
+;--------------------------------------------------------
+
+;Doggebi’s Certificate
+(group (index 6050) (item (100 1118 0) (150 1119 0) (200 1120 0)))
+(itemgroup (index 6050) (group (350 6050)))
+
+;--------------------------------------------------------
+;[Shinra Online] Devil Monster (Boss)
+;--------------------------------------------------------
+
+;Knight G32+6HP
+(group (index 6750) (item (200 49 16) (400 50 16) (600 51 16) (800 52 16) (1000 53 16)))
+
+;Archer G32+6HP
+(group (index 6751) (item (200 54 16) (400 55 16) (600 56 16) (800 57 16) (1000 58 16)))
+
+;Mage G32+6Wis
+(group (index 6752) (item (200 85 36) (400 86 36) (600 87 36) (800 88 36) (1000 89 36)))
+
+(itemgroup (index 6750) (group (150 6750) (300 6751) (450 6752)))

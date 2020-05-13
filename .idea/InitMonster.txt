@@ -1,0 +1,5 @@
+;Deep Sea Red Crab Level:3
+(monster (name 70)(index 70)(country 0 1 2 )(race 1)(level 3)(ai 1)(range 16)(sight 160 240)(exp 160) (itemgroup 2001 2) (itemgroup 2000 1)
+(str 27)(hth 2)(int 10)(wis 10)(dex 4)(hp 9)(mp 70)(aspeed 1600)(hit 3)(dodge 0)
+(attack 0 8 8)(magic 0 0)(defense 1 1)(absorb 0)(mspeed 1600 800)(resist 0 0 1 1 1)
+)

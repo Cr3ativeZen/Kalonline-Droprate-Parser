@@ -1,0 +1,38 @@
+(itemgroup (index 100) (group (1000 100)))
+(itemgroup (index 2000) (group (30 1400) (60 1410) (90 1401) (120 1402) (150 1403) (180 1500) (210 1501) (240 1502) (250 1404)))
+(itemgroup (index 2001) (group (40 1400) (80 1410) (120 1401) (160 1402) (200 1403) (240 1510) (280 1511) (320 1512) (330 1404)))
+
+
+(group (index 100) (money (920 30)))
+
+(group (index 1400) (item (15 220) (30 221) (45 8005) (60 2365) (73 2048) (80 222) (87 9640) (95 9302)))
+;KalCash Scrolls
+(group (index 1401) (item (10 524) (20 525) (30 527) (40 528) (50 529) (60 540) (70 532)))
+
+;KalCash Potions
+(group (index 1402) (item (10 533) (20 534) (30 535) (40 536) (50 537)))
+;KalCash Horns/RB
+(group (index 1403) (item (5 515) (10 482) (15 481)))
+
+;Talisman of Protection
+(group (index 1500) (item (30 319) (60 320) (90 321)))
+
+;Talisman of Wonder
+(group (index 1501) (item (30 276) (60 284) (90 292) (120 300) (150 308)))
+
+;Talisman of Intesification
+(group (index 1502) (item (30 327) (60 328) (90 329) (120 330) (150 331)))
+
+
+;Stones
+(group (index 1404) (item (15 4401)))
+
+
+;Talisman of Protection
+(group (index 1510) (item (20 322) (40 323) (60 324) (80 325) (100 326)))
+
+;Talisman of Wonder
+(group (index 1511) (item (20 276) (40 284) (60 292) (80 300) (100 308)))
+
+;Talisman of Intesification
+(group (index 1512) (item (20 332) (40 8123)))
