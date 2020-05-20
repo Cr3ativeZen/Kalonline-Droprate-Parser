@@ -637,23 +637,45 @@
 ;Purified trinket of spirit
 (item	(name 3319)		(Index 2251)	(Image "item604")		(desc 997)	(class ornament trinket)	(code 5 13 0 0)	(country 0 2)	(level 75)	(wear 1)												(buy 0)	(sell 0)	(endurance 20)					(specialty									(Str 7)	(Int 7)	(Wis 7)	(Hth 7)	(Dex 7)																		)				)
 
-;Ambitious Necklace Lv.75
-(item	(name 3487)		(Index 2448)	(Image "item626")	(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 75) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 2000)))
+;---
 
-;Wisdom Necklace Lv.75
-(item	(name 3488)		(Index 2449)	(Image "item509")	 (class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 75) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(mp 2000)))
+;Ambitious Necklace Lv.70
+(item	(name 3487)		(Index 2448)	(Image "item626")	(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 70) (limit all 70) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 1000)))
 
-;Hamonious Necklace Lv.75
-(item	(name 3489)		(Index 2450)	(Image "item627")	 (class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 75) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 1500) (mp 1200)))
+;Wisdom Necklace Lv.70
+(item	(name 3488)		(Index 2449)	(Image "item509")	 (class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 70) (limit all 70) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(mp 1000)))
+
+;Hamonious Necklace Lv.70
+(item	(name 3489)		(Index 2450)	(Image "item627")	 (class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 70) (limit all 70) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 750) (mp 600)))
 
 ;Health Necklace Lv.60
-(item	(name 3498)		(Index 2461)	(Image "item631")		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 1000)))
+(item	(name 3498)		(Index 2461)	(Image "item631")		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (limit all 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 500)))
 
 ;Mana Necklace Lv.60
-(item	(name 3499)		(Index 2462)	(Image "item632")		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(mp 1000)))
+(item	(name 3499)		(Index 2462)	(Image "item632")		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (limit all 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(mp 500)))
 
 ;Trinity Necklace Lv.60
-(item	(name 3500)		(Index 2463)	(Image "item633")		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 750) (mp 600)))
+(item	(name 3500)		(Index 2463)	(Image "item633")		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (limit all 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 375) (mp 300)))
+
+;---
+
+;Ambitious Necklace Lv.70 (Bonus Buff)
+(item	(name 3487)		(Index 8448)	(Image "item626") (desc 9641)	(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 70) (limit all 70) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 1000)))
+
+;Wisdom Necklace Lv.70 (Bonus Buff)
+(item	(name 3488)		(Index 8449)	(Image "item509") (desc 9641)	 (class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 70) (limit all 70) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(mp 1000)))
+
+;Hamonious Necklace Lv.70 (Bonus Buff)
+(item	(name 3489)		(Index 8450)	(Image "item627") (desc 9641)	 (class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 70) (limit all 70) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 750) (mp 600)))
+
+;Health Necklace Lv.60 (Bonus Buff)
+(item	(name 3498)		(Index 8461)	(Image "item631") (desc 9641)		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (limit all 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 500)))
+
+;Mana Necklace Lv.60 (Bonus Buff)
+(item	(name 3499)		(Index 8462)	(Image "item632") (desc 9641)		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (limit all 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(mp 500)))
+
+;Trinity Necklace Lv.60 (Bonus Buff)
+(item	(name 3500)		(Index 8463)	(Image "item633") (desc 9641)		(class ornament resistnecklace2)	(code 5 16 0 0)	(country 0 1 2)	(level 60) (limit all 60) (wear 1)	(buy 0)	(sell 0) (endurance 20)	(specialty	(hp 375) (mp 300)))
 
 ;--
 
@@ -729,6 +751,9 @@
 
 ;Forbidden Book (Ring)
 (item	(name 8052)		(Index 8052)	(Image "item761")		(desc 8052)	(class general charm)	(code 3 5 14 0)	(country 0 1 2)			(use 1)	(plural 1)									(buy 0)	(sell 0)					(specialty																												(Changeprefix ornament 	100 8012)								)								)
+
+;Magical Essence (Necklace)
+(item	(name 8053)		(Index 8053)	(Image "item1795")		(desc 8053)	(class general charm)	(code 3 5 14 0)	(country 0 1 2)			(use 1)	(plural 1)									(buy 0)	(sell 0)					(specialty																												(Changeprefix ornament 	100 8013)								)								)
 
 ;#############
 ;- Refreshs -#
@@ -806,32 +831,32 @@
 (item	(name 3096)		(Index 1953)	(Image "shop034")		(desc 858)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)		(pay 1)		(cooltime 1000)							(buy 0)					(effect 14)		(specialty																																						(buff 353 3600 0)							)										)	
 (item	(name 3097)		(Index 1954)	(Image "shop035")		(desc 859)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)		(pay 1)		(cooltime 1000)							(buy 0)					(effect 15)		(specialty																																						(buff 354 3600 0)							)										)	
 (item	(name 3098)		(Index 1955)	(Image "shop036")		(desc 860)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)		(pay 1)		(cooltime 1000)							(buy 0)					(effect 16)		(specialty																																						(buff 355 3600 0)							)										)	
-(item	(name 3182)		(Index 2055)	(Image "item556")		(desc 908)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300 55)							(buy 0)	(sell 50)				(effect 1)		(specialty																												(refresh hp 500)																	)										)	
+(item	(name 3182)		(Index 2055)	(Image "item556")		(desc 908)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300 55)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(refresh hp 500)																	)										)	
 (item	(name 3184)		(Index 2057)	(Image "item558")		(desc 910)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 68)		(use 1)	(plural 1)									(limit all 68)		(buy 250)	(sell 75)						(specialty																																						(buff 18 30 116)							)										)	
 (item	(name 3185)		(Index 2058)	(Image "item559")		(desc 911)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 72)		(use 1)	(plural 1)									(limit all 72)		(buy 300)	(sell 90)						(specialty																																						(buff 18 30 127)							)										)	
 (item	(name 3186)		(Index 2059)	(Image "item560")		(desc 912)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 68)		(use 1)	(plural 1)									(limit all 68)		(buy 1550)	(sell 400)						(specialty																																						(buff 19 30 66)							)										)	
 (item	(name 3187)		(Index 2060)	(Image "item561")		(desc 913)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 72)		(use 1)	(plural 1)									(limit all 72)		(buy 1700)	(sell 565)						(specialty																																						(buff 19 30 73)							)										)	
-(item	(name 3197)		(Index 2070)	(Image "item562")		(desc 923)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 500)						(specialty (buff 412 1800 1)																																													)										)	
-(item	(name 3198)		(Index 2071)	(Image "item563")		(desc 924)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 500)						(specialty (buff 413 1800 2)																																													)										)	
-(item	(name 3199)		(Index 2072)	(Image "item564")		(desc 925)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 500)						(specialty (buff 414 1800 3)																																													)										)	
-(item	(name 3200)		(Index 2073)	(Image "item565")		(desc 926)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 1500)				(effect 1)		(specialty																												(refresh hp 600)																	)										)	
-(item	(name 3201)		(Index 2074)	(Image "item566")		(desc 927)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 2000)				(effect 1)		(specialty																												(refresh hp 700)																	)										)	
-(item	(name 3203)		(Index 2076)	(Image "item568")		(desc 929)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 2000)						(specialty (buff 415 3600 4)																																													)										)	
-(item	(name 3286)		(Index 2171)	(Image "item558")	(desc 971)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(refresh hp 800)																	)										)
-(item	(name 3287)		(Index 2172)	(Image "item557")	(desc 972)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(refresh mp 300)																	)										)	
-(item	(name 3288)		(Index 2173)	(Image "item567")	(desc 973)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 430 1800 15)																	)										)	
-(item	(name 3289)		(Index 2174)	(Image "item568")	(desc 974)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 431 1800 16)																	)										)	
-(item	(name 3290)		(Index 2175)	(Image "item569")	(desc 975)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 432 1800 17)																	)										)	
-(item	(name 3291)		(Index 2176)	(Image "item570")	(desc 976)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 12 1800 60)																	)										)	
+(item	(name 3197)		(Index 2070)	(Image "item562")		(desc 923)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)						(specialty (buff 412 1800 1)																																													)										)	
+(item	(name 3198)		(Index 2071)	(Image "item563")		(desc 924)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)						(specialty (buff 413 1800 2)																																													)										)	
+(item	(name 3199)		(Index 2072)	(Image "item564")		(desc 925)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)						(specialty (buff 414 1800 3)																																													)										)	
+(item	(name 3200)		(Index 2073)	(Image "item565")		(desc 926)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(refresh hp 600)																	)										)	
+(item	(name 3201)		(Index 2074)	(Image "item566")		(desc 927)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(refresh hp 700)																	)										)	
+(item	(name 3203)		(Index 2076)	(Image "item568")		(desc 929)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 415 3600 4)																																													)										)	
+(item	(name 3286)		(Index 2171)	(Image "item558")	(desc 971)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(refresh hp 800)																	)										)
+(item	(name 3287)		(Index 2172)	(Image "item557")	(desc 972)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(refresh mp 300)																	)										)	
+(item	(name 3288)		(Index 2173)	(Image "item567")	(desc 973)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 430 1800 15)																	)										)	
+(item	(name 3289)		(Index 2174)	(Image "item568")	(desc 974)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 431 1800 16)																	)										)	
+(item	(name 3290)		(Index 2175)	(Image "item569")	(desc 975)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 432 1800 17)																	)										)	
+(item	(name 3291)		(Index 2176)	(Image "item570")	(desc 976)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 12 1800 60)																	)										)	
 (item	(name 647)		(Index 2220)	(Image "item146")		(desc 206)	(class general refresh)	(code 4 8 0 0)	(country 0 2 4)			(use 1)	(plural 1)			(cooltime 2000)						(buy 0)	(sell 0)					(specialty																														(buff 12 1800 45)							)					)
 (item	(name 303)		(Index 2221)	(Image "item095")		(desc 2)	(class general refresh)	(code 4 8 0 0)	(country 0 2 4)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(refresh hp 300)				)					)
 (item	(name 3427)		(Index 2359)	(Image "item320")		(desc 999)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)				(cooltime 1500)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh hp 700)																	)								)
 (item	(name 3428)		(Index 2360)	(Image "item322")		(desc 1000)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 7)		(specialty																									(buff 137 1800 3)																	)								)
 (item	(name 3429)		(Index 2361)	(Image "item320")		(desc 1001)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)				(cooltime 1500)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh hp 600)																	)								)
 (item	(name 3430)		(Index 2362)	(Image "item320")		(desc 1002)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)				(cooltime 1500)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh hp 500)																	)								)
-(item	(name 3431)		(Index 2363)	(Image "item324")	(desc 1003)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 12 1800 60)																	)										)	
-(item	(name 3432)		(Index 2364)	(Image "item321")	(desc 1004)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 432 1800 17)																	)										)	
-(item	(name 3436)		(Index 2368)	(Image "item569")	(desc 1024)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 10)				(effect 1)		(specialty																												(buff 432 1800 17)																	)										)	
+(item	(name 3431)		(Index 2363)	(Image "item324")	(desc 1003)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 12 1800 60)																	)										)	
+(item	(name 3432)		(Index 2364)	(Image "item321")	(desc 1004)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 432 1800 17)																	)										)	
+(item	(name 3436)		(Index 2368)	(Image "item569")	(desc 1024)			(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 432 1800 17)																	)										)	
 (item	(name 3437)		(Index 2369)	(Image "item195")		(desc 1025)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																																			(buff 107 1800 5)							)								)
 (item	(name 3438)		(Index 2370)	(Image "item195")		(desc 1026)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																																			(buff 109 1800 5)							)								)
 (item	(name 3439)		(Index 2371)	(Image "item196")		(desc 1027)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																																			(buff 106 1800 3)							)								)
@@ -841,17 +866,17 @@
 (item	(name 3443)		(Index 2375)	(Image "item197")		(desc 1031)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 2000)							(buy 0)	(sell 0)						(specialty																																			(buff 12 3600 50)							)								)
 (item	(name 3444)		(Index 2376)	(Image "item197")		(desc 1032)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 2000)							(buy 0)	(sell 0)						(specialty																																			(buff 12 3600 45)							)								)
 (item	(name 2552)		(Index 2473)	(Image "item364")		(desc 529)	(class general refresh)	(code 4 8 0 0)	(country 2)			(use 1)	(plural 1)		(pay 1)			(cooltime 1300 2)						(buy 0)	(sell 0)				(effect 2)		(specialty																									(refresh mp 500)																	)								)
-(item	(name 3509)		(Index 2498)	(Image "item635")		(desc 3499)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 2000)				(effect 1)		(specialty																									(refresh hp 400)																	)								)
-(item	(name 3510)		(Index 2499)	(Image "item636")		(desc 3500)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 2500)				(effect 1)		(specialty																									(refresh hp 700)																	)								)
-(item	(name 3511)		(Index 2500)	(Image "item637")		(desc 3501)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 3000)				(effect 1)		(specialty																									(refresh hp 700)																	)								)
-(item	(name 3512)		(Index 2501)	(Image "item638")		(desc 3502)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 5500)						(specialty (buff 462 3600 7)																																													)										)	
-(item	(name 3513)		(Index 2502)	(Image "item639")		(desc 3503)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 6500)						(specialty (buff 463 3600 7)																																													)										)	
-(item	(name 3514)		(Index 2503)	(Image "item640")		(desc 3504)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 7000)				(effect 1)		(specialty																									(refresh mp 500)																	)								)
-(item	(name 3515)		(Index 2504)	(Image "item641")		(desc 3505)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 4500)						(specialty (buff 464 3600 7)																																													)										)	
-(item	(name 3516)		(Index 2505)	(Image "item642")		(desc 3506)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 5000)						(specialty (buff 465 3600 7)																																													)										)	
-(item	(name 3517)		(Index 2506)	(Image "item643")		(desc 3507)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 5000)						(specialty (buff 466 3600 7)																																													)										)	
-(item	(name 3518)		(Index 2507)	(Image "item644")		(desc 3508)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 5000)						(specialty (buff 467 3600 7)																																													)										)	
-(item	(name 3182)		(Index 2932)	(Image "item556")		(desc 908)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300 55)							(buy 0)	(sell 50)			(effect 1)		(specialty																												(refresh hp 500)																	)										)	
+(item	(name 3509)		(Index 2498)	(Image "item635")		(desc 3499)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh hp 400)																	)								)
+(item	(name 3510)		(Index 2499)	(Image "item636")		(desc 3500)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh hp 700)																	)								)
+(item	(name 3511)		(Index 2500)	(Image "item637")		(desc 3501)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh hp 700)																	)								)
+(item	(name 3512)		(Index 2501)	(Image "item638")		(desc 3502)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 462 3600 7)																																													)										)	
+(item	(name 3513)		(Index 2502)	(Image "item639")		(desc 3503)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 463 3600 7)																																													)										)	
+(item	(name 3514)		(Index 2503)	(Image "item640")		(desc 3504)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)							(buy 0)	(sell 0)				(effect 1)		(specialty																									(refresh mp 500)																	)								)
+(item	(name 3515)		(Index 2504)	(Image "item641")		(desc 3505)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 464 3600 7)																																													)										)	
+(item	(name 3516)		(Index 2505)	(Image "item642")		(desc 3506)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 465 3600 7)																																													)										)	
+(item	(name 3517)		(Index 2506)	(Image "item643")		(desc 3507)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 466 3600 7)																																													)										)	
+(item	(name 3518)		(Index 2507)	(Image "item644")		(desc 3508)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(level 70)		(use 1)	(plural 1)				(cooltime 1300)					(limit all 70)		(buy 0)	(sell 0)						(specialty (buff 467 3600 7)																																													)										)	
+(item	(name 3182)		(Index 2932)	(Image "item556")		(desc 908)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300 55)							(buy 0)	(sell 0)			(effect 1)		(specialty																												(refresh hp 500)																	)										)	
 (item (name 3434) (Index 3087) (Image "item567") (desc 1022) (class general refresh) (code 4 8 0 0) (country 0 2) (use 1) (plural 1) (cooltime 1300) (buy 0) (sell 10) (effect 1) (specialty (buff 430 1800 15)) )
 (item (name 3513) (Index 3088) (Image "item639") (desc 3503) (class general refresh) (code 4 8 0 0) (country 0 2) (level 70) (use 1) (plural 1)	(cooltime 1300) (limit all 70) (buy 0) (sell 6500) (specialty (buff 463 3600 7)) )
 (item (name 733) (Index 3093) (Image "shop032") (desc 279) (class general refresh) (code 4 8 0 0) (country 0 2) (use 1)	(plural 1) (pay 1) (cooltime 1000) (buy 0) (effect 12) (specialty (buff 60 7200 5)) )
@@ -881,7 +906,7 @@
 (item	(name 5019)	(index 4139)	(Image "ss04")	(desc 4007)	(class general refresh)	(code 4 8 0 0)  (country 0 1 2)	(use 1)	(plural 1)  (cooltime 1300)	(buy 0) (sell 0)	(specialty 	(buff 471 3600 0)))
 (item	(name 5020)	(index 4140)	(Image "ss05")	(desc 4008)	(class general refresh)	(code 4 8 0 0)  (country 0 1 2)	(use 1)	(plural 1)  (cooltime 1300)	(buy 0) (sell 0)	(specialty 	(buff 472 3600 0))) 
 (item	(name 2552) (Index 3352)    (Image "item364")   (desc 529)  (class general refresh) (code 4 8 0 0)	    (country 0 2)			(use 1)	(plural 1)		(pay 1)			(cooltime 1300 2)						(buy 0)	(sell 0) 				(effect 2)		(specialty																									(refresh mp 500)																)								)
-(item	(name 4187)	(Index 4306)	(Image "item519")	(desc 5304)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)			(cooltime 1300 55)	(buy 210)	(sell 50)	(effect 1)	(specialty	(refresh hp 500)	)	)								
+(item	(name 4187)	(Index 4306)	(Image "item519")	(desc 5304)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)			(cooltime 1300 55)	(buy 0)	(sell 0)	(effect 1)	(specialty	(refresh hp 500)	)	)								
 (item	(name 4188)	(Index 4307)	(Image "item520")	(desc 5305)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)			(cooltime 1300)	(buy 0)	(sell 0)	(effect 1)	(specialty (buff 473 1800 0)		)	)								
 (item	(name 4189)	(Index 4308)	(Image "item528")	(desc 5306)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)			(cooltime 1300)	(buy 0)	(sell 0)	(effect 1)	(specialty (buff 474 1800 0)		)	)								
 (item	(name 6313)		(Index 4313)	(Image "item813")	(desc 5311)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)		(use 1)	(plural 1)				(cooltime 1300 55)							(buy 210)	(sell 50)		(effect 1)		(specialty																												(refresh hp 500)																	)										)	
@@ -890,7 +915,7 @@
 (item	(name 6316)		(Index 4316)	(Image "item816")	(desc 5314)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)		(use 1)	(plural 1)				(cooltime 1300)						(buy 0)	(sell 0)				(effect 1)	(specialty (buff 475 1800 0)							)								)																																									
 (item	(name 6317)		(Index 4317)	(Image "item817")	(desc 5315)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)		(use 1)	(plural 1)				(cooltime 1300)						(buy 0)	(sell 0)				(effect 1)	(specialty (buff 476 1800 0)							)								)																																									
 (item	(name 6318)		(Index 4318)	(Image "item818")	(desc 5316)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)		(use 1)	(plural 1)				(cooltime 1300)						(buy 0)	(sell 0)				(effect 1)	(specialty (buff 477 1800 0)							)								)																																									
-(item	(name 5324)	(Index 4325)	(Image "item831")	(desc 5323)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)		(cooltime 1300 55)	(buy 210)	(sell 50)	(effect 1)	(specialty	(refresh hp 500)	))	
+(item	(name 5324)	(Index 4325)	(Image "item831")	(desc 5323)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)		(cooltime 1300 55)	(buy 0)	(sell 0)	(effect 1)	(specialty	(refresh hp 500)	))	
 (item	(name 6701)	(Index 4601)	(Image "item095")	(desc 6701)	(class general refresh)		(code 4 8 0 0)	(country 0 2 4)		(plural 1)			(use 1)				(cooltime 1300)		(buy 0)	(effect 1)		(specialty	(refresh hp 300)								))
 (item	(name 6715)	(Index 4615)	(Image "item556")	(desc 6715)	(class general refresh)		(code 4 8 0 0)	(country 0 1 2)	(use 1)	(plural 1)							(cooltime 1300 55)		(buy 0)	(effect 1)		(specialty	(refresh hp 500)								))
 (item	(name 7506)	(Index 7506)	(Image "item095")	(desc 7506)	(class general refresh)	(code 4 8 0 0)	(country 0 2 4)	(use 1)		(plural 1)		(cooltime 1300)		(buy 0)	(sell 0)				(effect 1)	(specialty (refresh hp 300)    						))								
@@ -1931,7 +1956,6 @@
 (item	(name 7505)	(Index 7505)	(Image "item657")	(desc 7505)	(class general etc)	(code 4 9 0 0)	(country 0 1 2)	(use 1)		(plural 1)		(cooltime 100)		(buy 0)	(sell 0)		(level 60)	(limit all 60)		(specialty ))  								
 (item	(name 7600)	(Index 7600)	(Image "item142")	(desc 7600)		(class general etc)	(code 4 8 0 0)	(country 0 2)	(plural 1)	(buy 0)	(sell 0))									
 (item	(name 7601)	(Index 7601)	(Image "item909")	(desc 7601)		(class general etc)	(code 4 8 0 0)	(country 0 2)	(plural 1)	(buy 0)	(sell 0))									
-(item 	(name 7612)	(Index 7612)	(Image "item793")	(desc 7612)	(class general etc)(code 4 9 0 0)	(country 0 1 2)	(use 1)	(plural 1)	(limit all 1)	(pay 1)	(cooltime 100)	(buy 0)	(level 1)	(specialty ))						
 (item 	(name 7613)	(Index 7613)	(Image "Wea366")	(desc 7613)	(class general etc)(code 4 9 0 0)	(country 0 1 2)	(use 1)	(plural 1)	(limit all 1)	(pay 1)	(cooltime 100)	(buy 0)	(level 1)	(specialty ))				
 (item 	(name 7614)	(Index 7614)	(Image "Wea367")	(desc 7614)	(class general etc)(code 4 9 0 0)	(country 0 1 2)	(use 1)	(plural 1)	(limit all 1)	(pay 1)	(cooltime 100)	(buy 0)	(level 1)	(specialty ))				
 (item 	(name 7615)	(Index 7615)	(Image "Wea368")	(desc 7615)	(class general etc)(code 4 9 0 0)	(country 0 1 2)	(use 1)	(plural 1)	(limit all 1)	(pay 1)	(cooltime 100)	(buy 0)	(level 1)	(specialty ))				
@@ -2560,17 +2584,19 @@
 
 ;--- [EXP Pets]---;
 
-;Papadogs - 1 Day (Limited)
+;Papadogs - 1 Day (Limited) EXP
 (item	(name 7006) (Index 4336)	(Image "pet057")	(desc 5342)	(Action 21 1)	(class pet premiumegg)	(code 1 2 1 3)	(country 0 2)	(level 1)	(wear 1)(pay 1)	(limit all 1)	(buy 0)	(sell 0))	
-
-;Mamacats - 1 Day (Limited)
-(item	(name 9961) (Index 9961)	(Image "item9961")	(desc 9961)	(Action 21 1)	(class pet premiumegg)	(code 1 2 1 3)	(country 0 2)	(level 1)	(wear 1)(pay 1)	(limit all 1)	(buy 0)	(sell 0) )	
-
-;Awesome Raccoon - 1 Day (Limited)
-(item	(name 9005) (Index 9005)	(Image "item9005")	(desc 9005)	(Action 21 1)	(class pet premiumegg)	(code 1 2 1 3)	(country 0 2)	(level 1)	(wear 1)(pay 1)	(limit all 1)	(buy 0)	(sell 0) )	
 
 ;Mini Turtle Ship - 1 Day (Limited)
 (item	(name 9789) (Index 9789)	(Image "item9789")	(desc 9789)	(Action 21 1)	(class pet premiumegg)	(code 1 2 1 3)	(country 0 2)	(level 1)	(wear 1)(pay 1)	(limit all 1)	(buy 0)	(sell 0) )	
+
+;--- [Silver Store] ---;
+
+;Mamacats - 1 Day (Limited) HEAL
+(item	(name 9961) (Index 9961)	(Image "item9961")	(desc 9961)	(Action 21 1)	(class pet monsteregg)	(code 1 2 1 3)	(country 0 2)	(level 1)	(wear 1)(pay 1)	(limit all 1)	(buy 0)	(sell 0) )	
+
+;Awesome Raccoon - 1 Day (Limited) PICK
+(item	(name 9005) (Index 9005)	(Image "item9005")	(desc 9005)	(Action 21 1)	(class pet egg)	(code 1 2 1 3)	(country 0 2)	(level 1)	(wear 1)(pay 1)	(limit all 1)	(buy 0)	(sell 0) )	
 
 ;#############
 ;- Fishings -#
@@ -2588,7 +2614,7 @@
 ;Eel
 (item	(name 496)		(Index 241)	(Image "item068")		(desc 106)	(class general etc)	(code 4 9 0 0)	(country 0 1 2)			(plural 1)											(buy 0)																																																													)
 
-;Sea-bream
+;Carp
 (item	(name 644)		(Index 444)	(Image "item143")		(desc 203)	(class general etc)	(code 4 9 0 0)	(country 0 1 2)			(plural 1)											(buy 0)																																																													)
 
 (item	(name 2540)		(Index 1271)	(Image "item353")		(desc 499)	(class quest fish)	(code 4 10 0 0)	(country 0 2)					(plural 1)								(buy 0)	(sell 0)																																																		)
@@ -2800,10 +2826,10 @@
 (item	(name 6008)	(Index 6008)	(Image "Cost21")	(Action 6 1)(desc 5310)	(class defense cost)(code 2 3 4 0)(country 0 1 2)(wear 1)(buy 0)(sell 0)(level 1))	
 
 ;Happy Christmas Santa Costume
-(item	(name 6017)	(Index 6017)	(Image "Cost026")	(desc 3855) (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit knight 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
-(item	(name 6018)	(Index 6018)	(Image "Cost027")	(desc 3855) (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit archer 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
-(item	(name 6019)	(Index 6019)	(Image "Cost027")	(desc 3855) (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit mage 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
-(item	(name 6020)	(Index 6020)	(Image "Cost027")	(desc 3855) (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit thief 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
+(item	(name 6017)	(Index 6017)	(Image "Cost026")	 (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit knight 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
+(item	(name 6018)	(Index 6018)	(Image "Cost027")	 (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit archer 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
+(item	(name 6019)	(Index 6019)	(Image "Cost027")	 (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit mage 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
+(item	(name 6020)	(Index 6020)	(Image "Cost027")	 (Action 9 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit thief 1)	(buy 0)	(sell 0)		(level 1)	(specialty ))
 
 ;Sexy Club costume (Normal)
 (item	(name 6094)	(Index 6094)	(Image "item6094")      (Action 14 1)	(class defense cost)	(code 2 3 4 0)	(country 0 1 2)	(wear 1)	(limit knight 1)	(buy 0)	(sell 0)		 (specialty ) )
@@ -2837,38 +2863,29 @@
 ;- Weapon Skins -#
 ;#################
 
+;Blood Bone
 (item	(name 7619)	(Index 7619)	(Image "Wea371")	(desc 7619)	(Action 42 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
 (item	(name 7620)	(Index 7620)	(Image "Wea372")	(desc 7620)	(Action 42 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 2)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
 (item	(name 7621)	(Index 7621)	(Image "Wea373")	(desc 7621)	(Action 42 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 2)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
 (item	(name 7622)	(Index 7622)	(Image "Wea374")	(desc 7622)	(Action 42 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	)
-(item	(name 7624)	(Index 7624)	(Image "Wea371")	(desc 7624)	(Action 42 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
-(item	(name 7625)	(Index 7625)	(Image "Wea372")	(desc 7625)	(Action 42 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 3)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
-(item	(name 7626)	(Index 7626)	(Image "Wea373")	(desc 7626)	(Action 42 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 3)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	)
-(item	(name 7627)	(Index 7627)	(Image "Wea374")	(desc 7627)	(Action 42 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+
+;Dead person's relics
 (item	(name 7634)	(Index 7634)	(Image "Wea7634")	(desc 7634)	(Action 43 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	)
 (item	(name 7635)	(Index 7635)	(Image "Wea7635")	(desc 7635)	(Action 43 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 2)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	)
 (item	(name 7636)	(Index 7636)	(Image "Wea7636")	(desc 7636)	(Action 43 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 2)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
 (item	(name 7637)	(Index 7637)	(Image "Wea7637")	(desc 7637)	(Action 43 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
-(item	(name 7639)	(Index 7639)	(Image "Wea7639")	(desc 7639)	(Action 43 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	)
-(item	(name 7640)	(Index 7640)	(Image "Wea7640")	(desc 7640)	(Action 43 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 3)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	)
-(item	(name 7641)	(Index 7641)	(Image "Wea7641")	(desc 7641)	(Action 43 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 3)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
-(item	(name 7642)	(Index 7642)	(Image "Wea7642")	(desc 7642)	(Action 43 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
-(item	(name 7649)	(Index 7649)	(Image "Wea7649")	(desc 7649)	(Action 44 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)	))
-(item	(name 7650)	(Index 7650)	(Image "Wea7650")	(desc 7650)	(Action 44 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 2)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)	))
-(item	(name 7651)	(Index 7651)	(Image "Wea7651")	(desc 7651)	(Action 44 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 2)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)   	))
-(item	(name 7652)	(Index 7652)	(Image "Wea7652")	(desc 7652)	(Action 44 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)	))
-(item	(name 7654)	(Index 7654)	(Image "Wea7654")	(desc 7654)	(Action 44 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)	))
-(item	(name 7655)	(Index 7655)	(Image "Wea7655")	(desc 7655)	(Action 44 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 3)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)	))
-(item	(name 7656)	(Index 7656)	(Image "Wea7656")	(desc 7656)	(Action 44 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 3)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)	(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)   	))
-(item	(name 7657)	(Index 7657)	(Image "Wea7657")	(desc 7657)	(Action 44 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 5)(Hth 5)(Int 5)(Wis 5)(Dex 5)	))
-(item	(name 7672)	(Index 7672)	(Image "Wea7672")	(desc 7672)	(Action 45 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)	))
-(item	(name 7673)	(Index 7673)	(Image "Wea7673")	(desc 7673)	(Action 45 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 2)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)	))
-(item	(name 7674)	(Index 7674)	(Image "Wea7674")	(desc 7674)	(Action 45 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 2)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)   	))
-(item	(name 7675)	(Index 7675)	(Image "Wea7675")	(desc 7675)	(Action 45 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)	))
-(item	(name 7677)	(Index 7677)	(Image "Wea7672")	(desc 7677)	(Action 45 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)	))
-(item	(name 7678)	(Index 7678)	(Image "Wea7673")	(desc 7678)	(Action 45 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 3)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)	))
-(item	(name 7679)	(Index 7679)	(Image "Wea7674")	(desc 7679)	(Action 45 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 3)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)   	))
-(item	(name 7680)	(Index 7680)	(Image "Wea7675")	(desc 7680)	(Action 45 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 3)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	(specialty	(Str 3)(Hth 3)(Int 3)(Wis 3)(Dex 3)	))
+
+;Hell fire
+(item	(name 7649)	(Index 7649)	(Image "Wea7649")	(desc 7649)	(Action 44 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+(item	(name 7650)	(Index 7650)	(Image "Wea7650")	(desc 7650)	(Action 44 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 2)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+(item	(name 7651)	(Index 7651)	(Image "Wea7651")	(desc 7651)	(Action 44 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 2)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+(item	(name 7652)	(Index 7652)	(Image "Wea7652")	(desc 7652)	(Action 44 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+
+;Ancient memory
+(item	(name 7672)	(Index 7672)	(Image "Wea7672")	(desc 7672)	(Action 45 1)	(class weapon cost)	(code 1 1 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit knight 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+(item	(name 7673)	(Index 7673)	(Image "Wea7673")	(desc 7673)	(Action 45 1)	(class weapon cost)	(code 1 2 2 2)	(country 0 2)	(level 2)	(wear 1)	(limit archer 1)	(range 176)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+(item	(name 7674)	(Index 7674)	(Image "Wea7674")	(desc 7674)	(Action 45 1)	(class weapon cost)	(code 1 2 1 3)	(country 0 2)	(level 2)	(wear 1)	(limit mage 1) 	(range 18)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
+(item	(name 7675)	(Index 7675)	(Image "Wea7675")	(desc 7675)	(Action 45 1)	(class weapon cost)	(code 1 2 1 1)	(country 0 2)	(level 2)	(wear 1)	(limit thief 1)	(range 30)	(buy 0)	(sell 0)		(endurance 40)	(maxprotect 360)	)
 
 ;########################
 ;- Decorative Costumes -#
@@ -2911,6 +2928,9 @@
 ;Vote Coin
 (item	(name 8490)		(Index 6490)	(Image "item1790")		(desc 3440)	(class quest common)	(code 4 10 0 0)	(country 0 2)				(plural 1)									(buy 0)																																																			)
 
+;Guild Scroll Voucher
+(item	(name 8491)		(Index 6491)	(Image "item1791")		(desc 3441)	(class quest common)	(code 4 10 0 0)	(country 0 2)				(plural 1)									(buy 0)																																																			)
+
 ;Dragon Certificate's
 (item (name 3194) (Index 2047) (Image "shop147") (desc 896) (class general equipbox) (code 4 9 0 0) (country 0 2) (use 1)(plural 1) (cooltime 100) (buy 0) (sell 0) (specialty ) ) 
 
@@ -2927,7 +2947,7 @@
 (item	(name 5420)		(Index 5420)	(Image "item1805")		(desc 5420)	(class general etc)	(code 4 9 0 0)	(country 0 1 2)				(plural 1)									(buy 0)																																																			)
 
 ;Silver Coin
-;(item	(name 3462)		(Index 2427)	(Image "item615")		(desc 3462)	(class general etc)	(code 4 9 0 0)	(country 0 1 2)	(buy 0)	(sell 0) (plural 1)	)
+(item	(name 3462)		(Index 2427)	(Image "item615")		(desc 7462)	(class quest common)	(code 4 10 0 0)	(country 0 2)				(plural 1)									(buy 0)																																																			)
 
 ;Dragon Spirit Scroll
 ;(item	(name 3229)		(Index 2365)	(Image "shop134")		(desc 955)	(class general etc)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)											(buy 0)	(sell 0)																																																													)	
@@ -2971,6 +2991,9 @@
 (item	(name 9654)		(Index 9654)	(Image "item174")		(desc 9650)	(class quest common)	(code 4 9 0 0)	(country 0 2)				(plural 1)											(buy 0)	(sell 0)																																																								)
 (item	(name 9655)		(Index 9655)	(Image "item174")		(desc 9650)	(class quest common)	(code 4 9 0 0)	(country 0 2)				(plural 1)											(buy 0)	(sell 0)																																																								)
 (item	(name 9656)		(Index 9656)	(Image "item174")		(desc 9650)	(class quest common)	(code 4 9 0 0)	(country 0 2)				(plural 1)											(buy 0)	(sell 0)																																																								)
+
+;Adventurer's Magic Bag
+(item 	(name 7612)	(Index 7612)	(Image "item7700")	(desc 7612)	(class general etc)(code 4 9 0 0)	(country 0 1 2)	(use 1)	(plural 1)	(limit all 1)	(pay 1)	(cooltime 100)	(buy 0)	(level 1)	(specialty ))						
 
 ;##################
 ;- Mixing Stones -#
@@ -3117,19 +3140,19 @@
 (item	(name 9527)		(Index 9272)	(Image "item075")		(desc 9113)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1300)			(limit all 70)		(buy 0)	(sell 0)					(specialty																														(buff 6 3600 15)							)								)
 
 ;Tri-Colored Drink
-(item	(name 3434)		(Index 2366)	(Image "item567")	        (desc 1022)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1800000)			(limit all 70)		(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 430 1800 15)																	)										)	
+(item	(name 3434)		(Index 2366)	(Image "item567")	        (desc 1022)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 1800000)					(buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 430 1800 15)																	)										)	
 
 ;Dried Fish
-(item	(name 3435)		(Index 2367)	(Image "item568")	        (desc 1023)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)                              (cooltime 1800000)		        (limit all 70)	        (buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 431 1800 16)																	)										)	
+(item	(name 3435)		(Index 2367)	(Image "item568")	        (desc 1023)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)                              (cooltime 1800000)		        	        (buy 0)	(sell 0)				(effect 1)		(specialty																												(buff 431 1800 16)																	)										)	
 
 ;Tasty eel skewer
-(item	(name 3204)		(Index 2077)	(Image "item569")		(desc 930)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)  		(use 1)	(plural 1)				(cooltime 3600000)			(limit all 72)		(buy 0)	(sell 0)						(specialty (buff 416 3600 5)																																													)										)	
+(item	(name 3204)		(Index 2077)	(Image "item569")		(desc 930)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)  		(use 1)	(plural 1)				(cooltime 3600000)			         	(buy 0)	(sell 0)						(specialty (buff 416 3600 5)																																													)										)	
 
 ;Fantastic eel skewer
-(item	(name 3205)		(Index 2078)	(Image "item570")		(desc 931)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)			        (cooltime 3600000)			(limit all 72)		(buy 0)	(sell 0)						(specialty (buff 417 3600 6)																																													)										)	
+(item	(name 3205)		(Index 2078)	(Image "item570")		(desc 931)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)			        (cooltime 3600000)					(buy 0)	(sell 0)						(specialty (buff 417 3600 6)																																													)										)	
 
 ;Cooked carp
-(item	(name 3206)		(Index 2079)	(Image "item571")		(desc 932)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 3600000)			(limit all 72)		(buy 0)	(sell 0)						(specialty (buff 418 3600 7)																																													)										)	
+(item	(name 3206)		(Index 2079)	(Image "item571")		(desc 932)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(plural 1)				(cooltime 3600000)					(buy 0)	(sell 0)						(specialty (buff 418 3600 7)																																													)										)	
 
 ;Speed Up Medicine G4
 (item	(name 9275)		(Index 9275)	(Image "item146")		(desc 9275)	(class general refresh)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)			(cooltime 2000)						(buy 0)	(sell 0)					(specialty																														(buff 12 1800 60)							)								)
@@ -3156,8 +3179,14 @@
 (item	(name 4751)		(Index 4751)	(Image "item857")		(desc 4751)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(pay 1)			(cooltime 1300 33)						(buy 0)	(sell 0)				(effect 1)	(specialty																				(refresh hp 100)																	)								)
 (item	(name 4752)		(Index 4752)	(Image "item861")		(desc 4752)	(class general refresh)	(code 4 8 0 0)	(country 0 1 2)			(use 1)	(pay 1)			(cooltime 1300 33)						(buy 0)	(sell 0)				(effect 1)	(specialty																				(refresh hp 100)																	)								)
 
-;Lesser Stone of EXP - 3 hours
-(item	(name 4669)		(Index 4469)	(Image "shop001")		(desc 4216)	(class general etc)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)	(pay 1)		(cooltime 2000)						(buy 0)					(effect 19)	(specialty																														(buff 30 10800 0)							)								)
+;Lesser Stone of EXP - 6 hours
+(item	(name 4669)		(Index 4469)	(Image "shop001")		(desc 4216)	(class general etc)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)	(pay 1)		(cooltime 2000)						(buy 0)					(effect 19)	(specialty																														(buff 30 21600 0)							)								)
+
+;Lesser Stone of EXP - 1 hour
+(item	(name 4670)		(Index 4470)	(Image "shop001")		(desc 4217)	(class general etc)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)	(pay 1)		(cooltime 2000)						(buy 0)					(effect 19)	(specialty																														(buff 30 3600 0)							)								)
+
+;Begginer Stone of EXP - 12 hours
+(item	(name 4671)		(Index 4471)	(Image "shop001")		(desc 4218)	(class general etc)	(code 4 8 0 0)	(country 0 2)			(use 1)	(plural 1)	(pay 1)		(cooltime 2000)						(buy 0)					(effect 19)	(specialty																														(buff 30 43200 0)							)								)
 
 ;--
 

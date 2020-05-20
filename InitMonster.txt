@@ -817,61 +817,61 @@
 )
 
 ;Tough Hermit
-(monster  (name 277) (index 277) (country 0 2) (race 1) (level 77) (ai 2) (range 44) (sight 220 320) (exp 83200) (itemgroup 159 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3063 1)
+(monster  (name 277) (index 277) (country 0 2) (race 1) (level 77) (ai 2) (range 44) (sight 220 320) (exp 83200) (itemgroup 159 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3063 1) (itemgroup 1655 1)
 (str 158) (hth 133) (int 90) (wis 50) (dex 87) (hp 2700) (mp 120) (aspeed 1600) (hit 106) (dodge 72)
 (attack 0 370 660) (magic 0 1) (defense 168 148) (absorb 21) (mspeed 1400 600) (resist 43 43 43 56 56)
 )
 
 ;Hermit of Anger
-(monster  (name 278) (index 278) (country 0 2) (race 1) (level 78) (ai 2) (range 44) (sight 220 320) (exp 85600) (itemgroup 160 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3063 1)
+(monster  (name 278) (index 278) (country 0 2) (race 1) (level 78) (ai 2) (range 44) (sight 220 320) (exp 85600) (itemgroup 160 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3063 1) (itemgroup 1655 1)
 (str 159) (hth 135) (int 90) (wis 50) (dex 88) (hp 2700) (mp 120) (aspeed 1600) (hit 107) (dodge 72)
 (attack 0 375 675) (magic 0 1) (defense 169 149) (absorb 21) (mspeed 1400 600) (resist 44 44 44 57 57)
 )
 
 ;Hermit of Anger
-(monster  (name 279) (index 279) (country 0 2) (race 1) (level 79) (ai 2) (range 44) (sight 220 320) (exp 88000) (itemgroup 161 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3063 1)
+(monster  (name 279) (index 279) (country 0 2) (race 1) (level 79) (ai 2) (range 44) (sight 220 320) (exp 88000) (itemgroup 161 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3063 1) (itemgroup 1655 1)
 (str 160) (hth 137) (int 90) (wis 50) (dex 89) (hp 2700) (mp 120) (aspeed 1600) (hit 108) (dodge 72)
 (attack 0 375 675) (magic 0 1) (defense 170 150) (absorb 21) (mspeed 1400 600) (resist 44 44 44 57 57)
 )
 
 ;Hermit of Anger
-(monster  (name 280) (index 280) (country 0 2) (race 1) (level 80) (ai 2) (range 44) (sight 220 320) (exp 90400) (itemgroup 162 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3053 1)
+(monster  (name 280) (index 280) (country 0 2) (race 1) (level 80) (ai 2) (range 44) (sight 220 320) (exp 90400) (itemgroup 162 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 161) (hth 139) (int 90) (wis 50) (dex 90) (hp 2700) (mp 120) (aspeed 1600) (hit 109) (dodge 72)
 (attack 0 375 675) (magic 0 1) (defense 171 151) (absorb 21) (mspeed 1400 600) (resist 44 44 44 57 57)
 )
 
 ;High Class Doggebi with a Mask of Black Panther
-(monster  (name 281) (index 281) (country 0 2) (race 1) (level 76) (ai 2) (range 28) (sight 190 320) (exp 97920) (itemgroup 158 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3053 1)
+(monster  (name 281) (index 281) (country 0 2) (race 1) (level 76) (ai 2) (range 28) (sight 190 320) (exp 97920) (itemgroup 158 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 170) (hth 142) (int 10) (wis 10) (dex 85) (hp 2800) (mp 70) (aspeed 1600) (hit 107) (dodge 74)
 (attack 0 444 600) (magic 0 0) (defense 163 114) (absorb 29) (mspeed 1600 500) (resist 38 38 38 47 47)
 )
 
 ;High Class Doggebi with a Mask of Black Panther
-(monster  (name 282) (index 282) (country 0 2) (race 1) (level 77) (ai 2) (range 28) (sight 190 320) (exp 100640) (itemgroup 159 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3053 1)
+(monster  (name 282) (index 282) (country 0 2) (race 1) (level 77) (ai 2) (range 28) (sight 190 320) (exp 100640) (itemgroup 159 2) (itemgroup 2042 1) (itemgroup 1456 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 172) (hth 144) (int 10) (wis 10) (dex 86) (hp 2800) (mp 70) (aspeed 1600) (hit 108) (dodge 74)
 (attack 0 450 605) (magic 0 0) (defense 165 115) (absorb 29) (mspeed 1600 500) (resist 38 38 38 47 47)
 )
 
 ;High Class Doggebi with a Mask of Black Panther
-(monster  (name 283) (index 283) (country 0 2) (race 1) (level 78) (ai 2) (range 28) (sight 190 320) (exp 103360) (itemgroup 160 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1)
+(monster  (name 283) (index 283) (country 0 2) (race 1) (level 78) (ai 2) (range 28) (sight 190 320) (exp 103360) (itemgroup 160 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 174) (hth 146) (int 10) (wis 10) (dex 87) (hp 2800) (mp 70) (aspeed 1600) (hit 109) (dodge 74)
 (attack 0 456 610) (magic 0 0) (defense 167 116) (absorb 29) (mspeed 1600 500) (resist 38 38 38 47 47)
 )
 
 ;High Class Giant Doggebi
-(monster  (name 284) (index 284) (country 0 2) (race 1) (level 77) (ai 2) (range 28) (sight 190 320) (exp 100640) (itemgroup 159 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1)
+(monster  (name 284) (index 284) (country 0 2) (race 1) (level 77) (ai 2) (range 28) (sight 190 320) (exp 100640) (itemgroup 159 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 172) (hth 144) (int 10) (wis 10) (dex 86) (hp 2900) (mp 70) (aspeed 1600) (hit 108) (dodge 74)
 (attack 0 450 605) (magic 0 0) (defense 165 115) (absorb 30) (mspeed 1600 500) (resist 38 38 38 47 47)
 )
 
 ;High Class Giant Doggebi
-(monster  (name 285) (index 285) (country 0 2) (race 1) (level 78) (ai 2) (range 28) (sight 190 320) (exp 103360) (itemgroup 160 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1)
+(monster  (name 285) (index 285) (country 0 2) (race 1) (level 78) (ai 2) (range 28) (sight 190 320) (exp 103360) (itemgroup 160 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 174) (hth 146) (int 10) (wis 10) (dex 87) (hp 2900) (mp 70) (aspeed 1600) (hit 109) (dodge 74)
 (attack 0 456 610) (magic 0 0) (defense 167 116) (absorb 30) (mspeed 1600 500) (resist 38 38 38 47 47)
 )
 
 ;High Class Giant Doggebi
-(monster  (name 286) (index 286) (country 0 2) (race 1) (level 79) (ai 2) (range 28) (sight 190 320) (exp 106080) (itemgroup 161 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1)
+(monster  (name 286) (index 286) (country 0 2) (race 1) (level 79) (ai 2) (range 28) (sight 190 320) (exp 106080) (itemgroup 161 2) (itemgroup 2042 1) (itemgroup 1457 1) (itemgroup 3053 1) (itemgroup 1655 1)
 (str 176) (hth 148) (int 10) (wis 10) (dex 88) (hp 2900) (mp 70) (aspeed 1600) (hit 110) (dodge 74)
 (attack 0 462 615) (magic 0 0) (defense 169 117) (absorb 30) (mspeed 1600 500) (resist 38 38 38 47 47)
 )
@@ -1472,7 +1472,7 @@
 (quest (50 1 6031 1)))
 
 ; Security guard of the priest
-(monster (name 444) (index 444) (country 2) (race 1) (level 93) (ai 2) (range 30) (sight 310 350) (exp 1208000) (itemgroup 175 2) (itemgroup 2003 1) (itemgroup 3007 1)
+(monster (name 444) (index 444) (country 2) (race 1) (level 106) (ai 2) (range 30) (sight 310 350) (exp 1208000) (itemgroup 175 2) (itemgroup 2003 1) (itemgroup 3007 1)
 (str 250) (hth 225) (int 45) (wis 65) (dex 120) (hp 30000) (mp 500) (aspeed 1600) (hit 128) (dodge 80)  
 (attack 0 850 1250) (magic 0 0) (defense 168 138) (absorb 15) (mspeed 800 500) (resist 52 52 52 67 65)
 (quest ))
@@ -1813,14 +1813,14 @@
 
 ;High Class Security guard of the priest Level:95
 (monster (name 300)(index 531)(country 0 2 )(race 1)(level 125)(ai 2)(range 30)(sight 310 350)(exp 2560000) (itemgroup 414 2) (itemgroup 2053 1) (itemgroup 3011 1) (itemgroup 1405 1)
-(str 250)(hth 225)(int 45)(wis 65)(dex 120)(hp 90000)(mp 500)(aspeed 1600)(hit 154)(dodge 80)
-(attack 0 890 1320)(magic 0 0)(defense 280 230)(absorb 15)(mspeed 800 500)(resist 52 52 52 67 65)
+(str 250)(hth 225)(int 45)(wis 65)(dex 120)(hp 9000000)(mp 500)(aspeed 1600)(hit 124)(dodge 80)
+(attack 0 790 1020)(magic 0 0)(defense 280 230)(absorb 15)(mspeed 800 500)(resist 52 52 52 67 65)
 )
 
 ;High Class Security guard of the priest Level:95
 (monster (name 300)(index 532)(country 0 2 )(race 1)(level 125)(ai 2)(range 30)(sight 310 350)(exp 2560000) (itemgroup 414 2) (itemgroup 2053 1) (itemgroup 3011 1) (itemgroup 1405 1)
-(str 250)(hth 225)(int 45)(wis 65)(dex 120)(hp 90000)(mp 500)(aspeed 1600)(hit 154)(dodge 80)
-(attack 0 895 1325)(magic 0 0)(defense 280 230)(absorb 15)(mspeed 800 500)(resist 52 52 52 67 65)
+(str 250)(hth 225)(int 45)(wis 65)(dex 120)(hp 9000000)(mp 500)(aspeed 1600)(hit 134)(dodge 80)
+(attack 0 795 1025)(magic 0 0)(defense 280 230)(absorb 15)(mspeed 800 500)(resist 52 52 52 67 65)
 )
 
 ;---
@@ -2018,91 +2018,91 @@
 ;--------------------------------------------------------
 
 ;Banshee Level:84
-(monster (name 1541)(index 1541)(country 0 2 )(race 1)(level 84)(ai 2)(range 30)(sight 210 320)(exp 104000) (itemgroup 166 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
-(str 181)(hth 124)(int 16)(wis 16)(dex 91)(hp 3720)(mp 100)(aspeed 1600)(hit 130)(dodge 75)
-(attack 0 467 590)(magic 0 0)(defense 174 121)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
+(monster (name 1541)(index 1541)(country 0 2 )(race 1)(level 84)(ai 2)(range 30)(sight 210 320)(exp 208000) (itemgroup 166 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(str 181)(hth 124)(int 16)(wis 16)(dex 91)(hp 3720)(mp 100)(aspeed 1600)(hit 110)(dodge 75)
+(attack 0 417 540)(magic 0 0)(defense 174 121)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Banshee Level:85
-(monster (name 1542)(index 1542)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 104400) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1542)(index 1542)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 208800) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 183)(hth 126)(int 18)(wis 18)(dex 93)(hp 3780)(mp 100)(aspeed 1600)(hit 130)(dodge 76)
 (attack 0 469 592)(magic 0 0)(defense 176 123)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Elite Skeleton Level:83
-(monster (name 1547)(index 1547)(country 0 2 )(race 1)(level 83)(ai 2)(range 30)(sight 210 320)(exp 103600) (itemgroup 165 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1547)(index 1547)(country 0 2 )(race 1)(level 83)(ai 2)(range 30)(sight 210 320)(exp 207200) (itemgroup 165 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 179)(hth 122)(int 14)(wis 14)(dex 89)(hp 3660)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
-(attack 0 411 538)(magic 0 0)(defense 172 119)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
+(attack 0 361 488)(magic 0 0)(defense 172 119)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Elite Skeleton Level:84
-(monster (name 1548)(index 1548)(country 0 2 )(race 1)(level 84)(ai 2)(range 30)(sight 210 320)(exp 104400) (itemgroup 166 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1) 
+(monster (name 1548)(index 1548)(country 0 2 )(race 1)(level 84)(ai 2)(range 30)(sight 210 320)(exp 208800) (itemgroup 166 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1) 
 (str 181)(hth 124)(int 16)(wis 16)(dex 91)(hp 3720)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 413 540)(magic 0 0)(defense 174 121)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Elite Skeleton Level:85
-(monster (name 1549)(index 1549)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 104800) (itemgroup 167 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1549)(index 1549)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 230560) (itemgroup 167 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 183)(hth 126)(int 18)(wis 18)(dex 93)(hp 3780)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 415 542)(magic 0 0)(defense 176 123)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Elite Skeleton Level:86
-(monster (name 1550)(index 1550)(country 0 2 )(race 1)(level 86)(ai 2)(range 30)(sight 210 320)(exp 105600) (itemgroup 168 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1550)(index 1550)(country 0 2 )(race 1)(level 86)(ai 2)(range 30)(sight 210 320)(exp 181200) (itemgroup 168 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 185)(hth 128)(int 20)(wis 20)(dex 95)(hp 3840)(mp 100)(aspeed 1600)(hit 130)(dodge 73)
 (attack 0 517 644)(magic 0 0)(defense 178 125)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Skeleton Warrior Level:85
-(monster (name 1552)(index 1552)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 103600) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1552)(index 1552)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 207200) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 187)(hth 130)(int 22)(wis 22)(dex 97)(hp 3900)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 419 546)(magic 0 0)(defense 180 130)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Skeleton Warrior Level:86
-(monster (name 1553)(index 1553)(country 0 2 )(race 1)(level 86)(ai 2)(range 30)(sight 210 320)(exp 104400) (itemgroup 168 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1553)(index 1553)(country 0 2 )(race 1)(level 86)(ai 2)(range 30)(sight 210 320)(exp 199680) (itemgroup 168 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 189)(hth 132)(int 24)(wis 24)(dex 99)(hp 3960)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 421 548)(magic 0 0)(defense 182 132)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Skeleton Warrior Level:87
-(monster (name 1554)(index 1554)(country 0 2 )(race 1)(level 87)(ai 2)(range 30)(sight 210 320)(exp 105200) (itemgroup 169 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1554)(index 1554)(country 0 2 )(race 1)(level 87)(ai 2)(range 30)(sight 210 320)(exp 210400) (itemgroup 169 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 191)(hth 134)(int 26)(wis 26)(dex 101)(hp 4020)(mp 100)(aspeed 1600)(hit 130)(dodge 73)
 (attack 0 523 650)(magic 0 0)(defense 184 134)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Skeleton Archer Level:83
-(monster (name 1558)(index 1558)(country 0 2 )(race 1)(level 83)(ai 2)(range 100)(sight 210 320)(exp 103600) (itemgroup 165 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1558)(index 1558)(country 0 2 )(race 1)(level 83)(ai 2)(range 100)(sight 210 320)(exp 207200) (itemgroup 165 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 181)(hth 124)(int 16)(wis 16)(dex 91)(hp 3720)(mp 100)(aspeed 1600)(hit 130)(dodge 73)
 (attack 0 509 660)(magic 0 0)(defense 174 140)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Skeleton Archer Level:84
-(monster (name 1559)(index 1559)(country 0 2 )(race 1)(level 84)(ai 2)(range 100)(sight 210 320)(exp 104000) (itemgroup 166 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1559)(index 1559)(country 0 2 )(race 1)(level 84)(ai 2)(range 100)(sight 210 320)(exp 208000) (itemgroup 166 2) (itemgroup 2062 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 183)(hth 126)(int 18)(wis 18)(dex 93)(hp 3780)(mp 100)(aspeed 1600)(hit 130)(dodge 73)
 (attack 0 509 662)(magic 0 0)(defense 176 142)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Skeleton Archer Level:85
-(monster (name 1560)(index 1560)(country 0 2 )(race 1)(level 85)(ai 2)(range 100)(sight 210 320)(exp 104400) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1560)(index 1560)(country 0 2 )(race 1)(level 85)(ai 2)(range 100)(sight 210 320)(exp 208800) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 185)(hth 128)(int 20)(wis 20)(dex 95)(hp 3840)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 409 564)(magic 0 0)(defense 178 144)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Wraith Level:85
-(monster (name 1561)(index 1561)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 106000) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1561)(index 1561)(country 0 2 )(race 1)(level 85)(ai 2)(range 30)(sight 210 320)(exp 232000) (itemgroup 167 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 190)(hth 130)(int 22)(wis 22)(dex 97)(hp 3900)(mp 100)(aspeed 1600)(hit 130)(dodge 73)
 (attack 0 511 650)(magic 0 0)(defense 180 140)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Wraith Level:86
-(monster (name 1562)(index 1562)(country 0 2 )(race 1)(level 86)(ai 2)(range 30)(sight 210 320)(exp 106000) (itemgroup 168 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1562)(index 1562)(country 0 2 )(race 1)(level 86)(ai 2)(range 30)(sight 210 320)(exp 270125) (itemgroup 168 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 195)(hth 135)(int 27)(wis 27)(dex 102)(hp 3960)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 416 555)(magic 0 0)(defense 185 145)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Wraith Level:87
-(monster (name 1563)(index 1563)(country 0 2 )(race 1)(level 87)(ai 2)(range 30)(sight 210 320)(exp 106000) (itemgroup 169 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
+(monster (name 1563)(index 1563)(country 0 2 )(race 1)(level 87)(ai 2)(range 30)(sight 210 320)(exp 290250) (itemgroup 169 2) (itemgroup 2063 1) (itemgroup 3009 1) (itemgroup 1425 1) (itemgroup 1621 1)
 (str 200)(hth 140)(int 32)(wis 32)(dex 107)(hp 4020)(mp 100)(aspeed 1600)(hit 105)(dodge 73)
 (attack 0 421 560)(magic 0 0)(defense 190 150)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
@@ -2113,43 +2113,43 @@
 
 ;Twisted Demon Guard Level:89
 (monster (name 375)(index 375)(country 0 2 )(race 1)(level 89)(ai 2)(range 30)(sight 210 320)(exp 1200000) (itemgroup 309 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 360)(hth 224)(int 88)(wis 72)(dex 112)(hp 23500)(mp 240)(aspeed 1600)(hit 128)(dodge 88)
+(str 360)(hth 224)(int 88)(wis 72)(dex 112)(hp 19975)(mp 240)(aspeed 1600)(hit 128)(dodge 88)
 (attack 0 480 800)(magic 0 0)(defense 304 264)(absorb 23)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Patrol Level:90
 (monster (name 376)(index 376)(country 0 2 )(race 1)(level 90)(ai 2)(range 30)(sight 210 320)(exp 1240000) (itemgroup 310 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 380)(hth 232)(int 96)(wis 76)(dex 116)(hp 24500)(mp 260)(aspeed 1600)(hit 132)(dodge 92)
+(str 380)(hth 232)(int 96)(wis 76)(dex 116)(hp 20825)(mp 260)(aspeed 1600)(hit 132)(dodge 92)
 (attack 0 500 820)(magic 0 0)(defense 312 272)(absorb 24)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Warrior Level:91
 (monster (name 377)(index 377)(country 0 2 )(race 1)(level 91)(ai 2)(range 30)(sight 210 320)(exp 1264000) (itemgroup 311 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 25500)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
+(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 21675)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
 (attack 0 520 920)(magic 0 0)(defense 320 280)(absorb 25)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Soldier Level:92
 (monster (name 378)(index 378)(country 0 2 )(race 1)(level 92)(ai 2)(range 30)(sight 210 320)(exp 1288000) (itemgroup 312 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 26500)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
+(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 22525)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
 (attack 0 540 940)(magic 0 0)(defense 328 288)(absorb 26)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Defender Level:93
 (monster (name 379)(index 379)(country 0 2 )(race 1)(level 93)(ai 6)(range 30)(sight 300 340)(exp 1312000) (itemgroup 313 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 440)(hth 256)(int 120)(wis 88)(dex 128)(hp 27500)(mp 320)(aspeed 1600)(hit 144)(dodge 104)
+(str 440)(hth 256)(int 120)(wis 88)(dex 128)(hp 23375)(mp 320)(aspeed 1600)(hit 144)(dodge 104)
 (attack 0 560 960)(magic 0 0)(defense 336 296)(absorb 27)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Brown E-Moogi Level:88
 (monster (name 380)(index 380)(country 0 2 )(race 1)(level 88)(ai 2)(range 92)(sight 180 320)(exp 1160000) (itemgroup 308 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 360)(hth 162)(int 80)(wis 68)(dex 110)(hp 23040)(mp 220)(aspeed 1600)(hit 124)(dodge 84)
+(str 360)(hth 162)(int 80)(wis 68)(dex 110)(hp 19584)(mp 220)(aspeed 1600)(hit 124)(dodge 84)
 (attack 0 460 780)(magic 0 0)(defense 222 192)(absorb 22)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Green E-Moogi Level:88
 (monster (name 381)(index 381)(country 0 2 )(race 1)(level 88)(ai 2)(range 92)(sight 180 320)(exp 1160000) (itemgroup 308 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 360)(hth 162)(int 80)(wis 68)(dex 110)(hp 23040)(mp 220)(aspeed 1600)(hit 124)(dodge 84)
+(str 360)(hth 162)(int 80)(wis 68)(dex 110)(hp 19584)(mp 220)(aspeed 1600)(hit 124)(dodge 84)
 (attack 0 460 780)(magic 0 0)(defense 222 192)(absorb 22)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
@@ -2192,121 +2192,115 @@
 
 ;Ghost of Smith in E-Mok Island Level:81
 (monster (name 390)(index 390)(country 0 2 )(race 1)(level 81)(ai 2)(range 20)(sight 160 320)(exp 800000) (itemgroup 301 2) (itemgroup 2022 1) (itemgroup 3013 1) (itemgroup 1654 1)
-(str 220)(hth 120)(int 24)(wis 40)(dex 85)(hp 17550)(mp 80)(aspeed 1600)(hit 100)(dodge 56) 
+(str 220)(hth 120)(int 24)(wis 40)(dex 85)(hp 14917)(mp 80)(aspeed 1600)(hit 100)(dodge 56) 
 (attack 0 320 640)(magic 0 0)(defense 180 150)(absorb 15)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Ghost of Guard in E-Mok Island Level:81
 (monster (name 391)(index 391)(country 0 2 )(race 1)(level 81)(ai 2)(range 20)(sight 160 320)(exp 800000) (itemgroup 301 2) (itemgroup 2022 1) (itemgroup 3013 1) (itemgroup 1654 1)
-(str 220)(hth 120)(int 24)(wis 40)(dex 85)(hp 17550)(mp 80)(aspeed 1600)(hit 100)(dodge 56)
+(str 220)(hth 120)(int 24)(wis 40)(dex 85)(hp 14917)(mp 80)(aspeed 1600)(hit 100)(dodge 56)
 (attack 0 320 640)(magic 0 0)(defense 180 150)(absorb 15)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Sealed Ghost in E-Mok Island Level:82
 (monster (name 392)(index 392)(country 0 2 )(race 1)(level 82)(ai 2)(range 20)(sight 160 320)(exp 840000) (itemgroup 302 2) (itemgroup 2022 1) (itemgroup 3013 1) (itemgroup 1654 1)
-(str 240)(hth 126)(int 32)(wis 44)(dex 90)(hp 18850)(mp 100)(aspeed 1600)(hit 105)(dodge 60)
+(str 240)(hth 126)(int 32)(wis 44)(dex 90)(hp 16022)(mp 100)(aspeed 1600)(hit 105)(dodge 60)
 (attack 0 340 660)(magic 0 0)(defense 186 156)(absorb 16)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Sealed Ghost in E-Mok Island Level:83
 (monster (name 393)(index 393)(country 0 2 )(race 1)(level 83)(ai 2)(range 20)(sight 160 320)(exp 880000) (itemgroup 303 2) (itemgroup 2022 1) (itemgroup 3013 1) (itemgroup 1654 1)
-(str 260)(hth 132)(int 40)(wis 48)(dex 95)(hp 20150)(mp 120)(aspeed 1600)(hit 110)(dodge 64)
+(str 260)(hth 132)(int 40)(wis 48)(dex 95)(hp 17127)(mp 120)(aspeed 1600)(hit 110)(dodge 64)
 (attack 0 360 680)(magic 0 0)(defense 192 162)(absorb 17)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Small Green E-Moogi Level:84
 (monster (name 394)(index 394)(country 0 2 )(race 1)(level 84)(ai 2)(range 92)(sight 180 320)(exp 920000) (itemgroup 304 2) (itemgroup 2022 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 280)(hth 138)(int 48)(wis 52)(dex 96)(hp 21450)(mp 140)(aspeed 1600)(hit 112)(dodge 68)
+(str 280)(hth 138)(int 48)(wis 52)(dex 96)(hp 18232)(mp 140)(aspeed 1600)(hit 112)(dodge 68)
 (attack 0 380 700)(magic 0 0)(defense 198 168)(absorb 18)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Small Green E-Moogi Level:85
 (monster (name 395)(index 395)(country 0 2 )(race 1)(level 85)(ai 2)(range 92)(sight 180 320)(exp 960000) (itemgroup 305 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 300)(hth 144)(int 56)(wis 56)(dex 100)(hp 22100)(mp 160)(aspeed 1600)(hit 116)(dodge 72)
+(str 300)(hth 144)(int 56)(wis 56)(dex 100)(hp 18785)(mp 160)(aspeed 1600)(hit 116)(dodge 72)
 (attack 0 400 720)(magic 0 0)(defense 204 174)(absorb 19)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Green E-Moogi Level:86
 (monster (name 396)(index 396)(country 0 2 )(race 1)(level 86)(ai 2)(range 92)(sight 180 320)(exp 1080000) (itemgroup 306 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 320)(hth 150)(int 64)(wis 60)(dex 104)(hp 22490)(mp 180)(aspeed 1600)(hit 120)(dodge 76)
+(str 320)(hth 150)(int 64)(wis 60)(dex 104)(hp 19116)(mp 180)(aspeed 1600)(hit 120)(dodge 76)
 (attack 0 420 740)(magic 0 0)(defense 210 180)(absorb 20)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Green E-Moogi Level:87
 (monster (name 397)(index 397)(country 0 2 )(race 1)(level 87)(ai 2)(range 92)(sight 180 320)(exp 1120000) (itemgroup 307 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 340)(hth 156)(int 72)(wis 64)(dex 108)(hp 22880)(mp 200)(aspeed 1600)(hit 124)(dodge 80)
+(str 340)(hth 156)(int 72)(wis 64)(dex 108)(hp 19448)(mp 200)(aspeed 1600)(hit 124)(dodge 80)
 (attack 0 440 760)(magic 0 0)(defense 216 186)(absorb 21)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Small Brown E-Moogi Level:84
 (monster (name 398)(index 398)(country 0 2 )(race 1)(level 84)(ai 2)(range 92)(sight 180 320)(exp 920000) (itemgroup 304 2) (itemgroup 2022 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 280)(hth 138)(int 48)(wis 52)(dex 96)(hp 21450)(mp 140)(aspeed 1600)(hit 112)(dodge 68)
+(str 280)(hth 138)(int 48)(wis 52)(dex 96)(hp 18232)(mp 140)(aspeed 1600)(hit 112)(dodge 68)
 (attack 0 380 700)(magic 0 0)(defense 198 168)(absorb 18)(mspeed 1600 600)(resist 26 26 26 23 23)
-)
-
-;Small Brown E-Moogi Level:85
-(monster (name 399)(index 399)(country 0 2 )(race 1)(level 85)(ai 2)(range 92)(sight 180 320)(exp 960000) (itemgroup 305 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 300)(hth 144)(int 56)(wis 56)(dex 100)(hp 22100)(mp 160)(aspeed 1600)(hit 116)(dodge 72)
-(attack 0 400 720)(magic 0 0)(defense 204 174)(absorb 19)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Brown E-Moogi Level:86
 (monster (name 400)(index 400)(country 0 2 )(race 1)(level 86)(ai 2)(range 92)(sight 180 320)(exp 1080000) (itemgroup 306 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 320)(hth 150)(int 64)(wis 60)(dex 104)(hp 22490)(mp 180)(aspeed 1600)(hit 120)(dodge 76)
+(str 320)(hth 150)(int 64)(wis 60)(dex 104)(hp 19116)(mp 180)(aspeed 1600)(hit 120)(dodge 76)
 (attack 0 420 740)(magic 0 0)(defense 210 180)(absorb 20)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Brown E-Moogi Level:87
 (monster (name 401)(index 401)(country 0 2 )(race 1)(level 87)(ai 2)(range 92)(sight 180 320)(exp 1120000) (itemgroup 307 2) (itemgroup 2023 1) (itemgroup 3013 1) (itemgroup 1652 1)
-(str 340)(hth 156)(int 72)(wis 64)(dex 108)(hp 22880)(mp 200)(aspeed 1600)(hit 124)(dodge 80)
+(str 340)(hth 156)(int 72)(wis 64)(dex 108)(hp 19448)(mp 200)(aspeed 1600)(hit 124)(dodge 80)
 (attack 0 440 760)(magic 0 0)(defense 216 186)(absorb 21)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Guard Level:90
 (monster (name 402)(index 402)(country 0 2 )(race 1)(level 90)(ai 2)(range 30)(sight 210 320)(exp 1240000) (itemgroup 310 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 380)(hth 232)(int 96)(wis 76)(dex 116)(hp 24500)(mp 260)(aspeed 1600)(hit 132)(dodge 92)
+(str 380)(hth 232)(int 96)(wis 76)(dex 116)(hp 20825)(mp 260)(aspeed 1600)(hit 132)(dodge 92)
 (attack 0 500 820)(magic 0 0)(defense 312 272)(absorb 24)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Guard Level:91
 (monster (name 403)(index 403)(country 0 2 )(race 1)(level 91)(ai 2)(range 30)(sight 210 320)(exp 1268000) (itemgroup 311 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 25500)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
+(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 21675)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
 (attack 0 520 920)(magic 0 0)(defense 320 280)(absorb 25)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Patrol Level:91
 (monster (name 404)(index 404)(country 0 2 )(race 1)(level 91)(ai 2)(range 30)(sight 210 320)(exp 1264000) (itemgroup 311 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 25500)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
+(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 21675)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
 (attack 0 520 920)(magic 0 0)(defense 320 280)(absorb 25)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Patrol Level:92
 (monster (name 405)(index 405)(country 0 2 )(race 1)(level 92)(ai 2)(range 30)(sight 210 320)(exp 1288000) (itemgroup 312 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 26500)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
+(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 22525)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
 (attack 0 540 940)(magic 0 0)(defense 328 288)(absorb 26)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Warrior Level:92
 (monster (name 406)(index 406)(country 0 2 )(race 1)(level 92)(ai 2)(range 30)(sight 210 320)(exp 1280000) (itemgroup 312 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 26500)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
+(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 22525)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
 (attack 0 540 940)(magic 0 0)(defense 328 288)(absorb 26)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Soldier Level:93
 (monster (name 407)(index 407)(country 0 2 )(race 1)(level 93)(ai 2)(range 30)(sight 210 320)(exp 1312000) (itemgroup 313 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 440)(hth 256)(int 120)(wis 88)(dex 128)(hp 27500)(mp 320)(aspeed 1600)(hit 144)(dodge 104)
+(str 440)(hth 256)(int 120)(wis 88)(dex 128)(hp 23375)(mp 320)(aspeed 1600)(hit 144)(dodge 104)
 (attack 0 560 960)(magic 0 0)(defense 336 296)(absorb 27)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Soldier Level:94
 (monster (name 408)(index 408)(country 0 2 )(race 1)(level 94)(ai 2)(range 30)(sight 210 320)(exp 1336000) (itemgroup 314 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 460)(hth 264)(int 128)(wis 92)(dex 132)(hp 29000)(mp 340)(aspeed 1600)(hit 148)(dodge 108)
+(str 460)(hth 264)(int 128)(wis 92)(dex 132)(hp 24650)(mp 340)(aspeed 1600)(hit 148)(dodge 108)
 (attack 0 820 1220)(magic 0 0)(defense 344 304)(absorb 28)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Defender Level:94
 (monster (name 409)(index 409)(country 0 2 )(race 1)(level 94)(ai 2)(range 30)(sight 300 340)(exp 1336000) (itemgroup 314 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 460)(hth 264)(int 128)(wis 92)(dex 132)(hp 29000)(mp 340)(aspeed 1600)(hit 148)(dodge 108)
+(str 460)(hth 264)(int 128)(wis 92)(dex 132)(hp 24650)(mp 340)(aspeed 1600)(hit 148)(dodge 108)
 (attack 0 820 1220)(magic 0 0)(defense 344 304)(absorb 28)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
@@ -2315,25 +2309,25 @@
 
 ;Twisted Demon Guard Level:89
 (monster (name 412)(index 412)(country 0 2 )(race 1)(level 89)(ai 4)(range 30)(sight 720 720)(exp 1200000) (itemgroup 309 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 360)(hth 224)(int 88)(wis 72)(dex 112)(hp 27600)(mp 240)(aspeed 1600)(hit 128)(dodge 88)
+(str 360)(hth 224)(int 88)(wis 72)(dex 112)(hp 23460)(mp 240)(aspeed 1600)(hit 128)(dodge 88)
 (attack 0 480 800)(magic 0 0)(defense 304 264)(absorb 23)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Patrol Level:90
 (monster (name 413)(index 413)(country 0 2 )(race 1)(level 90)(ai 4)(range 30)(sight 720 720)(exp 1240000) (itemgroup 310 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 380)(hth 232)(int 96)(wis 76)(dex 116)(hp 29600)(mp 260)(aspeed 1600)(hit 132)(dodge 92)
+(str 380)(hth 232)(int 96)(wis 76)(dex 116)(hp 25160)(mp 260)(aspeed 1600)(hit 132)(dodge 92)
 (attack 0 500 820)(magic 0 0)(defense 312 272)(absorb 24)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Warrior Level:91
 (monster (name 414)(index 414)(country 0 2 )(race 1)(level 91)(ai 2)(range 30)(sight 720 720)(exp 1264000) (itemgroup 311 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 24000)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
+(str 400)(hth 240)(int 104)(wis 80)(dex 120)(hp 20400)(mp 280)(aspeed 1600)(hit 136)(dodge 96)
 (attack 0 520 920)(magic 0 0)(defense 320 280)(absorb 25)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
 ;Twisted Demon Soldier Level:92
 (monster (name 415)(index 415)(country 0 2 )(race 1)(level 92)(ai 2)(range 30)(sight 720 720)(exp 1288000) (itemgroup 312 2) (itemgroup 2023 1) (itemgroup 3014 1) (itemgroup 1654 1)
-(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 26000)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
+(str 420)(hth 248)(int 112)(wis 84)(dex 124)(hp 22100)(mp 300)(aspeed 1600)(hit 140)(dodge 100)
 (attack 0 540 940)(magic 0 0)(defense 328 288)(absorb 26)(mspeed 1600 600)(resist 26 26 26 23 23)
 )
 
@@ -3387,69 +3381,70 @@
 ;--------------------------------------------------------
 
 ;Blue Team Battlefield Stone
-(monster (name 445)(index 445)(country 0 2)(race 1)(level 80)
-(str 1)(hth 200)(int 100)(wis 100)(dex 1)(hp 1500000)(dodge 50)
-(defense 300 100)(absorb 3))
+(monster (name 445) (index 445) (country 2) (race 3) (level 50) (ai 0) (range 0) (sight 0 0) (exp 0)
+(str 0) (hth 0) (int 0) (wis 0) (dex 0) (hp 150000) (mp 0) (aspeed 0) (hit 0) (dodge 0)
+(attack 0 0 0) (magic 0 0) (defense 200 200) (absorb 40) (mspeed 0 0) (resist 100 100 100 100 100))
+
 
 ;Red Team Battlefield Stone
-(monster (name 448)(index 448)(country 0 2)(race 1)(level 80)
-(str 1)(hth 200)(int 100)(wis 100)(dex 1)(hp 1500000)(dodge 50)
-(defense 300 100)(absorb 3))
+(monster (name 448) (index 448) (country 2) (race 3) (level 50) (ai 0) (range 0) (sight 0 0) (exp 0)
+(str 0) (hth 0) (int 0) (wis 0) (dex 0) (hp 150000) (mp 0) (aspeed 0) (hit 0) (dodge 0)
+(attack 0 0 0) (magic 0 0) (defense 200 200) (absorb 40) (mspeed 0 0) (resist 100 100 100 100 100))
 
 ;--------------------------------------------------------
 ;[Swamp]
 ;--------------------------------------------------------
 
 ;Miasma Rafflesia
-(monster (name 1221)(index 1221)(country 0 1 2 )(race 0)(level 82)(ai 2)(range 28)(sight 160 320)(exp 244800) (itemgroup 162 2) (itemgroup 2022 1)
-(str 196)(hth 161)(int 36)(wis 36)(dex 96)(hp 1200)(mp 70)(aspeed 1500)(hit 120)(dodge 76)
-(attack 0 530 710)(magic 0 0)(defense 114 84)(absorb 31)(mspeed 1600 800)(resist 7 7 7 7 7)
+(monster (name 1221)(index 1221)(country 0 1 2 )(race 1)(level 82)(ai 2)(range 28)(sight 160 320)(exp 670017) (itemgroup 162 2)(itemgroup 2023 1) (itemgroup 3021 1)
+(str 216)(hth 161)(int 45)(wis 45)(dex 103)(hp 8504)(mp 70)(aspeed 1500)(hit 135)(dodge 86)
+(attack 0 630 810)(magic 0 0)(defense 124 94)(absorb 34)(mspeed 1600 800)(resist 7 7 7 7 7)
 )
 
 ;Violent Sarracenia
-(monster (name 1223)(index 1223)(country 0 1 2 )(race 0)(level 82)(ai 2)(range 28)(sight 160 320)(exp 244800) (itemgroup 162 2) (itemgroup 2022 1)
-(str 196)(hth 161)(int 36)(wis 36)(dex 96)(hp 1200)(mp 70)(aspeed 1500)(hit 120)(dodge 76)
-(attack 0 530 710)(magic 0 0)(defense 114 84)(absorb 31)(mspeed 1600 800)(resist 7 7 7 7 7)
+(monster (name 1223)(index 1223)(country 0 1 2 )(race 1)(level 82)(ai 2)(range 28)(sight 160 320)(exp 670017) (itemgroup 162 2)(itemgroup 2023 1) (itemgroup 3021 1)
+(str 216)(hth 161)(int 45)(wis 45)(dex 103)(hp 8504)(mp 70)(aspeed 1500)(hit 135)(dodge 86)
+(attack 0 630 810)(magic 0 0)(defense 124 94)(absorb 34)(mspeed 1600 800)(resist 7 7 7 7 7)
 )
 
 ;Scorpion
-(monster (name 1604)(index 1604)(country 0 1 2 )(race 1)(level 82)(ai 2)(range 30)(sight 180 340)(exp 244800) (itemgroup 162 2) (itemgroup 2022 1)
-(str 196)(hth 161)(int 36)(wis 36)(dex 96)(hp 1200)(mp 70)(aspeed 1600)(hit 120)(dodge 76)
-(attack 0 530 710)(magic 0 0)(defense 114 84)(absorb 31)(mspeed 1600 400)(resist 7 7 7 7 7)
+(monster (name 1604)(index 1604)(country 0 1 2 )(race 1)(level 82)(ai 2)(range 30)(sight 180 340)(exp 670017) (itemgroup 162 2)(itemgroup 2023 1) (itemgroup 3021 1)
+(str 216)(hth 161)(int 45)(wis 45)(dex 103)(hp 8504)(mp 70)(aspeed 1500)(hit 135)(dodge 86)
+(attack 0 630 810)(magic 0 0)(defense 124 94)(absorb 34)(mspeed 1600 800)(resist 7 7 7 7 7)
 )
 
 ;Yaksa Expedition Leader
-(monster (name 1282)(index 1282)(country 0 2 )(race 1)(level 92)(ai 2)(range 28)(sight 200 320)(exp 1350000) (itemgroup 174 2) (itemgroup 2023 2)
-(str 236)(hth 216)(int 41)(wis 61)(dex 96)(hp 56000)(mp 500)(aspeed 1400)(hit 128)(dodge 76) 
-(attack 0 810 1110)(magic 0 0)(defense 169 142)(absorb 17)(mspeed 1500 500)(resist 7 7 7 7 7)
+(monster (name 1282)(index 1282)(country 0 2 )(race 1)(level 92)(ai 2)(range 28)(sight 200 320)(exp 3350085) (itemgroup 174 4)(itemgroup 2024 1) (itemgroup 3022 1)
+(str 256)(hth 216)(int 41)(wis 61)(dex 103)(hp 56000)(mp 500)(aspeed 1400)(hit 138)(dodge 86) 
+(attack 0 810 1010)(magic 0 0)(defense 139 122)(absorb 17)(mspeed 1500 500)(resist 7 7 7 7 7)
 )
 
 ;--------------------------------------------------------
 ;[Shadow of D'evah]
 ;--------------------------------------------------------
 
-;Dawn Shadow of D'evah
-(monster  (name 1025) (index 1025) (country 2) (race 1) (level 1) (ai 2) (range 70) (sight 220 380) (exp 2500000) (itemgroup 3500 1) (itemgroup 3510 5)
-(str 280) (hth 10) (int 70) (wis 50) (dex 90) (hp 1000) (mp 1000) (aspeed 1500) (hit 110) (dodge 45) 
-(attack 0 70 120) (magic 0 0) (defense 260 200) (absorb 24) (mspeed 1600 600) (resist 33 30 34 37 25)
+;Dawn Shadow of D'evah (FoE)
+(monster  (name 1025) (index 1025) (country 2) (race 1) (level 70) (ai 1) (range 70) (sight 220 380) (exp 1) (itemgroup 804 4) (itemgroup 6755 2) (itemgroup 6756 1)
+(str 210) (hth 165) (int 30) (wis 30) (dex 90) (hp 150000) (mp 70) (aspeed 1500) (hit 120) (dodge 76)  
+(attack 0 720 900) (magic 0 0) (defense 108 78) (absorb 29) (mspeed 1600 600) (resist 52 52 52 92 5)  
 )
 
-;Devil Shadow of D'evah
-(monster  (name 1026) (index 1026) (country 2) (race 1) (level 1) (ai 2) (range 70) (sight 220 380) (exp 5000000) (itemgroup 3501 1) (itemgroup 3511 5)
-(str 300) (hth 10) (int 70) (wis 50) (dex 95) (hp 5000) (mp 1000) (aspeed 1500) (hit 140) (dodge 50)
-(attack 0 180 300) (magic 0 0) (defense 260 200) (absorb 24) (mspeed 1600 600) (resist 33 30 34 37 25)
+;Devil Shadow of D'evah (FoE)
+(monster  (name 1026) (index 1026) (country 2) (race 1) (level 70) (ai 1) (range 70) (sight 220 380) (exp 1) (itemgroup 805 4) (itemgroup 6755 2) (itemgroup 6756 1)
+(str 210) (hth 165) (int 30) (wis 30) (dex 90) (hp 150000) (mp 70) (aspeed 1500) (hit 120) (dodge 76)  
+(attack 0 720 900) (magic 0 0) (defense 108 78) (absorb 29) (mspeed 1600 600) (resist 52 52 52 92 5)  
 )
 
-;Nightmare Shadow of D'evah
-(monster  (name 1027) (index 1027) (country 2) (race 1) (level 1) (ai 2) (range 70) (sight 220 380) (exp 10000000) (itemgroup 3502 1) (itemgroup 3512 5)
-(str 325) (hth 10) (int 70) (wis 50) (dex 100) (hp 10000) (mp 1000) (aspeed 1500) (hit 170) (dodge 55)
-(attack 0 220 360) (magic 0 0) (defense 260 200) (absorb 24) (mspeed 1600 600) (resist 33 30 34 37 25)
+;Nightmare Shadow of D'evah (FoE)
+(monster  (name 1027) (index 1027) (country 2) (race 1) (level 70) (ai 1) (range 70) (sight 220 380) (exp 1) (itemgroup 806 4) (itemgroup 6755 2) (itemgroup 6756 1)
+(str 210) (hth 165) (int 30) (wis 30) (dex 90) (hp 150000) (mp 70) (aspeed 1500) (hit 120) (dodge 76)  
+(attack 0 720 900) (magic 0 0) (defense 108 78) (absorb 29) (mspeed 1600 600) (resist 52 52 52 92 5)  
 )
 
-;Hell Shadow of D'evah
-(monster  (name 1028) (index 1028) (country 2) (race 1) (level 1) (ai 2) (range 70) (sight 220 380) (exp 15000000) (itemgroup 3503 1) (itemgroup 3513 5)
-(str 350) (hth 10) (int 70) (wis 50) (dex 110) (hp 15000) (mp 1000) (aspeed 1500) (hit 200) (dodge 60)
-(attack 0 260 440) (magic 0 0) (defense 260 200) (absorb 24) (mspeed 1600 600) (resist 33 30 34 37 25)
+;Hell Shadow of D'evah (FoE)
+(monster  (name 1028) (index 1028) (country 2) (race 1) (level 70) (ai 1) (range 70) (sight 220 380) (exp 1) (itemgroup 807 4)  (itemgroup 6755 2) (itemgroup 6756 1)
+(str 210) (hth 165) (int 30) (wis 30) (dex 90) (hp 150000) (mp 70) (aspeed 1500) (hit 120) (dodge 76)  
+(attack 0 720 900) (magic 0 0) (defense 108 78) (absorb 29) (mspeed 1600 600) (resist 52 52 52 92 5)  
 )
 
 ;------------------------------------------
@@ -3457,41 +3452,34 @@
 ;------------------------------------------
 
 ;Storm blade
-(monster (name 949)(index 949)(country 0 1 2 )(race 1)(level 32)(ai 2)(range 30)(sight 220 380)(exp 52974)
+(monster (name 949)(index 949)(country 0 1 2 )(race 1)(level 32)(ai 2)(range 30)(sight 220 380)(exp 5297)
 (str 70)(hth 30)(int 2)(wis 1)(dex 73)(hp 1232)(mp 115)(aspeed 1700)(hit 131)(dodge 85)
 (attack 0 392 584)(magic 0 0)(defense 107 107)(absorb 5)(mspeed 1600 800)(resist 41 41 41 41 20)
 )
 
 ;Ironclaw of Hell
-(monster (name 950)(index 950)(country 0 1 2 )(race 1)(level 40)(ai 2)(range 30)(sight 220 380)(exp 138176)
+(monster (name 950)(index 950)(country 0 1 2 )(race 1)(level 40)(ai 2)(range 30)(sight 220 380)(exp 13817)
 (str 90)(hth 40)(int 10)(wis 10)(dex 75)(hp 2178)(mp 140)(aspeed 1800)(hit 154)(dodge 93)
 (attack 0 725 1068)(magic 0 0)(defense 150 149)(absorb 10)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;The first ghost
-(monster (name 952)(index 952)(country 0 1 2 )(race 1)(level 65)(ai 2)(range 30)(sight 220 380)(exp 1018830)
+(monster (name 952)(index 952)(country 0 1 2 )(race 1)(level 65)(ai 2)(range 30)(sight 220 380)(exp 101883)
 (str 167)(hth 80)(int 10)(wis 10)(dex 83)(hp 8250)(mp 90)(aspeed 1500)(hit 213)(dodge 115)
 (attack 0 902 1693)(magic 0 0)(defense 248 235)(absorb 19)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
 ;Ruler of purgatory
-(monster (name 953)(index 953)(country 0 1 2 )(race 1)(level 70)(ai 2)(range 30)(sight 220 380)(exp 3009226)
+(monster (name 953)(index 953)(country 0 1 2 )(race 1)(level 70)(ai 2)(range 30)(sight 220 380)(exp 300922)
 (str 200)(hth 100)(int 10)(wis 10)(dex 83)(hp 15290)(mp 100)(aspeed 1800)(hit 253)(dodge 128)
 (attack 0 989 1859)(magic 0 0)(defense 286 271)(absorb 25)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
 
-;Scorpion prince Level:90
-(monster (name 954)(index 954)(country 0 1 2 )(race 1)(level 90)(ai 2)(range 30)(sight 220 380)(exp 12040106)
-(str 310)(hth 120)(int 10)(wis 10)(dex 110)(hp 68090)(mp 200)(aspeed 1600)(hit 370)(dodge 148)
-(attack 0 1734 2453)(magic 0 0)(defense 450 441)(absorb 27)(mspeed 1600 500)(resist 39 38 38 52 51)
-)
-
-;Larva of destruction Level:80
-(monster (name 955)(index 955)(country 0 1 2 )(race 1)(level 80)(ai 2)(range 30)(sight 220 380)(exp 6138946)
+;Larva of destruction
+(monster (name 955)(index 955)(country 0 1 2 )(race 1)(level 80)(ai 2)(range 30)(sight 220 380)(exp 613894)
 (str 300)(hth 150)(int 10)(wis 10)(dex 100)(hp 37532)(mp 410)(aspeed 1700)(hit 300)(dodge 135)
 (attack 0 1153 2321)(magic 0 0)(defense 391 382)(absorb 26)(mspeed 1600 500)(resist 39 38 38 52 51)
 )
-
 
 ;--------------------------------------------------------
 ;[Lawless] Lv.70
@@ -3738,9 +3726,21 @@
 ;------------
 
 ;Necro Dragon
-(monster (name 1200)(index 1200)(country 0 1 2 )(race 1)(level 130)(ai 2)(range 30)(sight 200 360)(exp 134400000)
-(str 420)(hth 250)(int 70)(wis 70)(dex 130)(hp 41600)(mp 250)(aspeed 1800)(hit 160)(dodge 100)
-(attack 0 900 1140)(magic 0 0)(defense 350 300)(absorb 23)(mspeed 1600 600)(resist 31 25 27 36 24)
+(monster (name 1200)(index 1200)(country 0 1 2 )(race 2)(level 1)(ai 2)(range 30)(sight 200 360)(exp 1)
+(str 350)(hth 1)(int 70)(wis 70)(dex 130)(hp 500)(mp 250)(aspeed 1800)(hit 180)(dodge 0)
+(attack 0 650 1250)(magic 0 0)(defense 1 1)(absorb 1)(mspeed 1600 600)(resist 1 1 1 1 1)
+)
+
+;Necro Dragon
+(monster (name 1200)(index 1201)(country 0 1 2 )(race 2)(level 1)(ai 2)(range 30)(sight 200 360)(exp 1)
+(str 375)(hth 1)(int 80)(wis 80)(dex 140)(hp 1000)(mp 250)(aspeed 1800)(hit 200)(dodge 0)
+(attack 0 750 1350)(magic 0 0)(defense 1 1)(absorb 1)(mspeed 1600 600)(resist 1 1 1 1 1)
+)
+
+;Necro Dragon
+(monster (name 1200)(index 1202)(country 0 1 2 )(race 2)(level 1)(ai 2)(range 30)(sight 200 360)(exp 1)
+(str 400)(hth 1)(int 90)(wis 90)(dex 150)(hp 1500)(mp 250)(aspeed 1800)(hit 220)(dodge 0)
+(attack 0 850 1450)(magic 0 0)(defense 1 1)(absorb 1)(mspeed 1600 600)(resist 1 1 1 1 1)
 )
 
 ;--------------------------------------------------------

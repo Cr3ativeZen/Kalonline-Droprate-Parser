@@ -583,6 +583,19 @@
 (group (index 803) (money (920 25000)))
 (itemgroup (index 803) (group (1000 803)))
 
+;Devah boss
+(group (index 804) (money (920 15000)))
+(itemgroup (index 804) (group (1000 804)))
+
+(group (index 805) (money (920 25000)))
+(itemgroup (index 805) (group (1000 805)))
+
+(group (index 806) (money (920 35000)))
+(itemgroup (index 806) (group (1000 806)))
+
+(group (index 807) (money (920 45000)))
+(itemgroup (index 807) (group (1000 807)))
+
 ;--
 
 ;Floor 10 Boss
@@ -611,10 +624,10 @@
 ;---
 
 ;Knight Weapons G40 Strong Knight's
-(group (index 1025) (item (50 100 70) (100 101 70) (150 102 70) (200 30 0))) 
+(group (index 1025) (item (50 100 0) (100 101 0) (150 102 0) (200 30 0))) 
 
 ;Knight Weapons G45 Expert Knight's
-(group (index 1026) (item (45 103 71) (90 104 71) (135 429 0))) 
+(group (index 1026) (item (45 103 0) (90 104 0) (135 429 0))) 
 
 ;Knight Weapons G48
 (group (index 1027) (item (40 572 0) (80 573 0) (120 574 0) (160 430 0)))
@@ -651,10 +664,10 @@
 ;---
 
 ;Archer Weapons G40 Skillful Archer's
-(group (index 1125) (item (50 106 74) (150 107 74) (200 108 74))) 
+(group (index 1125) (item (50 106 0) (150 107 0) (200 108 0))) 
 
 ;Archer Weapons G45 Expert Archer's
-(group (index 1126) (item (45 109 75) (90 110 75))) 
+(group (index 1126) (item (45 109 0) (90 110 0))) 
 
 ;Archer Weapons G48
 (group (index 1127) (item (40 578 0) (80 579 0) (120 580 0)))
@@ -690,10 +703,10 @@
 ;---
 
 ;Magician Weapons G40 Skillful Scholar's
-(group (index 1225) (item (50 112 78) (100 113 78) (150 114 78))) 
+(group (index 1225) (item (50 112 0) (100 113 0) (150 114 0))) 
 
 ;Magician Weapons G45 Expert Scholar's
-(group (index 1226) (item (45 115 79) (90 116 79))) 
+(group (index 1226) (item (45 115 0) (90 116 0))) 
 
 ;Magician Weapons G48
 (group (index 1227) (item (40 581 0) (80 582 0) (120 583 0)))
@@ -724,10 +737,16 @@
 (group (index 1402) (item (10 533 0) (20 534 0) (30 535 0) (40 536 0) (50 537 0)))
 
 ;Mixing Stone - D4
-(group (index 1404) (item (20 895 0) (40 896 0) (60 897 0) (80 898 0) (100 899 0) (120 900 0) (140 901 0) (150 902 0) (160 903 0)))
+(group (index 1404) (item (20 895 0) (40 896 0) (60 897 0) (80 898 0) (100 899 0) (120 900 0) (140 901 0) (150 902 0) (160 903 0) (165 904 0) (170 905 0)))
 
 ;Mixing Stone - Overall
-(group (index 1406) (item (20 895 0) (40 896 0) (60 897 0) (80 898 0) (100 899 0) (120 900 0) (140 901 0) (150 902 0) (160 903 0)))
+(group (index 1406) (item (20 895 0) (40 896 0) (60 897 0) (80 898 0) (100 899 0) (120 900 0) (140 901 0) (150 902 0) (160 903 0) (165 904 0) (170 905 0)))
+
+;TOA, TOD, BOF (Swamp - Tombs)
+(group (index 1407) (item (300 8105 0)))
+
+;Mixing Stone - (Swamp - Tombs)
+(group (index 1408) (item (30 895 0) (60 896 0) (90 897 0) (120 898 0) (150 899 0) (180 900 0) (210 901 0) (240 902 0) (270 903 0) (285 904 0) (300 905 0)))
 
 ;--
 
@@ -736,8 +755,8 @@
 (itemgroup (index 1405) (group (150 1405)))
 
 ;Piece of Unknown World & Essence of Undead (F4-5-6)
-(group (index 1425) (item (125 1621 0) (135 1617 0)))
-(itemgroup (index 1425) (group (75 1425)))
+(group (index 1425) (item (150 1621 0) (160 1617 0)))
+(itemgroup (index 1425) (group (150 1425)))
 
 ;--
 
@@ -861,104 +880,82 @@
 (itemgroup (index 1620) (group (140 1620)))
 
 ;TOP Elements (Shiny)
-(group (index 1621) (item (20 1503 0) (40 1500 0) (60 1499 0) (80 1501 0) (100 1502 0)))
-(itemgroup (index 1621) (group (70 1621)))
+(group (index 1621) (item (60 1503 0) (120 1500 0) (180 1499 0) (240 1501 0) (300 1502 0)))
+(itemgroup (index 1621) (group (140 1621)))
 
 ;--------------------------------------------------------
 ;[3rd Job - Boss Items]
 ;--------------------------------------------------------
 
-;Horn of Doggebi Lord
-(group (index 1650) (item (10 1498 0)))
+;Horn of Doggebi Lord (Guardians)
+(group (index 1650) (item (25 1498 0)))
 (itemgroup (index 1650) (group (50 1650)))
 
 ;Lord's Jaw
-(group (index 1651) (item (500 1494 0)))
+(group (index 1651) (item (1000 1494 0)))
 (itemgroup (index 1651) (group (1000 1651)))
 
 ;Complete E-moogy's Scale
 (group (index 1652) (item (50 1497 0)))
-(itemgroup (index 1652) (group (100 1652)))
+(itemgroup (index 1652) (group (75 1652)))
 
 ;Monster' Right Arm
-(group (index 1653) (item (500 1495 0)))
+(group (index 1653) (item (1000 1495 0)))
 (itemgroup (index 1653) (group (1000 1653)))
 
 ;Complete E-moogy's Scale (Low Drop) [Ghost etc]
-(group (index 1654) (item (10 1497 0)))
+(group (index 1654) (item (25 1497 0)))
 (itemgroup (index 1654) (group (50 1654)))
+
+;Horn of Doggebi Lord (Low Drop) [All Doggebi]
+(group (index 1655) (item (10 1498 0)))
+(itemgroup (index 1655) (group (25 1655)))
 
 ;--------------------------------------------------------
 ;[ItemGroups]
 ;--------------------------------------------------------
 
 ;Main (Outdoor)
-;Low Level (1-49)
-(itemgroup (index 2000) (group (30 1400) (60 1401) (90 1402) (120 1500) (150 1501) (180 1502))) 
-;Med Level (50-69)
-(itemgroup (index 2001) (group (40 1400) (80 1401) (120 1402) (160 1500) (200 1501) (240 1502) (250 1406))) 
-;High Level (70-84)
-(itemgroup (index 2002) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (310 1406))) 
-;High Level (85-100)
-(itemgroup (index 2003) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (370 1406))) 
+(itemgroup (index 2000) (group (30 1400) (60 1401) (90 1402) (120 1500) (150 1501) (180 1502))) ;Low Level (1-49)
+(itemgroup (index 2001) (group (40 1400) (80 1401) (120 1402) (160 1500) (200 1501) (240 1502) (250 1406))) ;Med Level (50-69)
+(itemgroup (index 2002) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (310 1406))) ;High Level (70-84)
+(itemgroup (index 2003) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (370 1406))) ;High Level (85-100)
 
 ;Main (Dungeon 1)
-;Low Level (1-49)
-(itemgroup (index 2010) (group (30 1400) (30 1401) (90 1402) (120 1500) (150 1501) (180 1502))) 
-;Med Level (50-69)
-(itemgroup (index 2011) (group (40 1400) (80 1401) (120 1402) (160 1500) (200 1501) (240 1502))) 
+(itemgroup (index 2010) (group (30 1400) (30 1401) (90 1402) (120 1500) (150 1501) (180 1502))) ;Low Level (1-49)
+(itemgroup (index 2011) (group (40 1400) (80 1401) (120 1402) (160 1500) (200 1501) (240 1502))) ;Med Level (50-69)
 
 ;Main (Solo Area)
-;Low Level (1-49)
-(itemgroup (index 2020) (group (50 1400) (100 1401) (150 1402) (200 1500) (250 1501) (300 1502)))
-;Med Level (50-69)
-(itemgroup (index 2021) (group (60 1400) (120 1401) (180 1402) (240 1500) (300 1501) (360 1502) (370 1406)))
-;High Level (70-84)
-(itemgroup (index 2022) (group (70 1400) (140 1401) (210 1402) (280 1510) (350 1511) (420 1512) (430 1406)))
-;High Level (85-100)
-(itemgroup (index 2023) (group (80 1400) (180 1401) (260 1402) (340 1510) (420 1511) (500 1512) (510 1406))) 
+(itemgroup (index 2020) (group (50 1400) (100 1401) (150 1402) (200 1500) (250 1501) (300 1502))) ;Low Level (1-49)
+(itemgroup (index 2021) (group (60 1400) (120 1401) (180 1402) (240 1500) (300 1501) (360 1502) (370 1406))) ;Med Level (50-69)
+(itemgroup (index 2022) (group (70 1400) (140 1401) (210 1402) (280 1510) (350 1511) (420 1512) (430 1406))) ;High Level (70-84)
+(itemgroup (index 2023) (group (80 1400) (180 1401) (260 1402) (340 1510) (420 1511) (500 1512) (510 1406))) ;High Level (85-100)
+
+;Swamp Tombs
+(itemgroup (index 2024) (group (120 1407) (240 1401) (360 1402) (480 1510) (600 1511) (720 1512) (840 1408))) ;High Level (85-100)
 
 ;Main (Dungeon 2 & DeadLand)
-;Low Level (1-49)
-(itemgroup (index 2030) (group (30 1400) (60 1401) (90 1402) (120 1500) (150 1501) (180 1502) (195 1404)))
-;Med Level (50-69) 
-(itemgroup (index 2031) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (255 1404)))
-;High Level (70-84) 
-(itemgroup (index 2032) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (315 1404)))
-;High Level (85-100) 
-(itemgroup (index 2033) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (375 1404))) 
+(itemgroup (index 2030) (group (30 1400) (60 1401) (90 1402) (120 1500) (150 1501) (180 1502) (195 1404))) ;Low Level (1-49)
+(itemgroup (index 2031) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (255 1404))) ;Med Level (50-69)
+(itemgroup (index 2032) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (315 1404))) ;High Level (70-84)
+(itemgroup (index 2033) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (375 1404))) ;High Level (85-100)
 
 ;Main (Dungeon 3)
-;Low Level (1-49)
-(itemgroup (index 2040) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (190 1406))) 
-;Med Level (50-69)
-(itemgroup (index 2041) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (250 1406))) 
-;High Level (70-84)
-(itemgroup (index 2042) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (310 1406))) 
-;High Level (85-100)
-(itemgroup (index 2043) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (370 1406))) 
+(itemgroup (index 2040) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (190 1406))) ;Low Level (1-49)
+(itemgroup (index 2041) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (250 1406))) ;Med Level (50-69)
+(itemgroup (index 2042) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (310 1406))) ;High Level (70-84)
+(itemgroup (index 2043) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (370 1406))) ;High Level (85-100)
 
 ;Main (Tower of Priest)
-;Low Level (1-49)
-(itemgroup (index 2050) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (210 1505) (220 1406)))
-;Med Level (50-69) 
-(itemgroup (index 2051) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (280 1505) (290 1406)))
-;High Level (70-84) 
-(itemgroup (index 2052) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (350 1505) (360 1406))) 
-;High Level (85-100)
-(itemgroup (index 2053) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (420 1505) (430 1406))) 
-;TOP F8/F9
-(itemgroup (index 2054) (group (60 1400) (120 1505)))
+(itemgroup (index 2050) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (210 1505) (220 1406))) ;Low Level (1-49)
+(itemgroup (index 2051) (group (40 1400) (80 1401) (120 1402) (160 1510) (200 1511) (240 1512) (280 1505) (290 1406))) ;Med Level (50-69)
+(itemgroup (index 2052) (group (50 1400) (100 1401) (150 1402) (200 1510) (250 1511) (300 1512) (350 1505) (360 1406))) ;High Level (70-84)
+(itemgroup (index 2053) (group (60 1400) (120 1401) (180 1402) (240 1510) (300 1511) (360 1512) (420 1505) (430 1406))) ;High Level (85-100)
+(itemgroup (index 2054) (group (60 1400) (120 1505))) ;High Level (85-100) ;TOP F8/F9
 
 ;Main (Tower of Priest) F4-5-6
-;High Level (70-84)
-(itemgroup (index 2062) (group (25 1400) (50 1401) (75 1402) (100 1510) (125 1511) (150 1512) (175 1505) (180 1406))) 
-;High Level (85-100)
-(itemgroup (index 2063) (group (30 1400) (60 1401) (90 1402) (120 1510) (150 1511) (180 1512) (210 1505) (215 1406))) 
-
-;Wooden Box
-(itemgroup (index 2100) (group (100 1401) (200 1402)))
-(itemgroup (index 2101) (group (100 1401) (200 1402)))
+(itemgroup (index 2062) (group (20 1400) (40 1401) (60 1402) (80 1510) (100 1511) (120 1512) (140 1505) (145 1406))) ;High Level (70-84)
+(itemgroup (index 2063) (group (20 1400) (40 1401) (60 1402) (80 1510) (100 1511) (120 1512) (140 1505) (145 1406))) ;High Level (85-100)
 
 ;------------------------;
 ;--- [Treasure Chest] ---;
@@ -976,7 +973,15 @@
 ;Pet 1 day
 (group (index 2113) (item (25 4336 0) (50 7722 0)))
 
+;Treasure Chest
 (itemgroup (index 2110) (group (300 2110) (600 2111) (900 2112) (950 2113)))
+
+;Wooden box KalCash Items (Horn/Polish/Rb/saving/moving)
+(group (index 2114) (item (10 515 0) (20 481 0) (30 482 0) (40 511 0) (50 509 0)))
+
+;Wooden Box
+(itemgroup (index 2100) (group (100 1401) (200 1402) (250 2114)))
+(itemgroup (index 2101) (group (100 1401) (200 1402) (250 2114)))
 
 ;----
 
@@ -1016,7 +1021,8 @@
 (itemgroup (index 3000) (group (40 1000) (80 1100) (120 1200) (160 1025) (200 1125) (240 1225))) 
 
 ;Dungeon 1 (G45, G46 & G48)
-(itemgroup (index 3001) (group (30 1001) (60 1101) (90 1201) (120 1026) (150 1126) (180 1226) (210 1027) (240 1127) (270 1227)))
+;(itemgroup (index 3001) (group (35 1001) (70 1101) (105 1201) (140 1026) (175 1126) (210 1226) (245 1027) (280 1127) (315 1227)))
+(itemgroup (index 3001) (group (60 1001) (120 1101) (180 1201) (195 1026) (210 1126) (225 1226) (240 1027) (255 1127) (270 1227)))
 
 ;Dungeon 2 (G50 & G53)
 (itemgroup (index 3002) (group (20 1002) (40 1102) (60 1202) (80 1028) (100 1128) (120 1228) (135 1029) (150 1129) (165 1229)))
@@ -1080,6 +1086,12 @@
 
 ;Dungeon 4 - Defender (G55 & G59)
 (itemgroup (index 3020) (group (15 1003) (30 1103) (45 1203) (60 1031) (75 1131) (90 1231)))
+
+;Swamp (G55 & G59)
+(itemgroup (index 3021) (group (12 1003) (24 1103) (36 1203) (48 1031) (60 1131) (72 1231)))
+
+;Swamp - Tombs (G55, G59)
+(itemgroup (index 3022) (group (30 1003) (60 1103) (90 1203) (120 1031) (150 1131) (180 1231)))
 
 ;--------------------------------------------------------
 ;[Shadow of D'evah]
@@ -1155,6 +1167,30 @@
 ;--------------------------------------------------------
 ;[Shinra Online] Attendance Reward
 ;--------------------------------------------------------
+
+;Attendance Reward (Physical)
+(group (index 5875) (item (200 4469 256 1) (400 7703 256 1) (600 4029 256 1) (800 1984 256 1) (1000 481 256 5)))
+(itemgroup (index 5875) (group (1000 5875)))
+
+;Attendance Reward (Magical)
+(group (index 5876) (item (200 4469 256 1) (400 7703 256 1) (600 4029 256 1) (800 1984 256 1) (1000 481 256 5)))
+(itemgroup (index 5876) (group (1000 5876)))
+
+;Lucky Attendance Reward (Physical)
+(group (index 5877) (item (200 4469 256 1) (400 7703 256 1) (600 4029 256 1) (800 9970 256 1) (1000 1984 256 1)))
+(itemgroup (index 5877) (group (1000 5877)))
+
+;Lucky Attendance Reward (Magical)
+(group (index 5878) (item (200 4469 256 1) (400 7703 256 1) (600 4029 256 1) (800 9970 256 1) (1000 1984 256 1)))
+(itemgroup (index 5878) (group (1000 5878)))
+
+;--------------------------------------------------------
+;[Shinra Online] RNG Bag
+;--------------------------------------------------------
+
+;Adventurer's Magic Bag
+;(group (index 5880) (item (1000 482 256 1)))
+;(itemgroup (index 5880) (group (1000 5880)))
 
 ;--------------------------------------------------------
 ;[Shinra Online] Quest
@@ -1286,3 +1322,15 @@
 (group (index 6752) (item (200 85 36) (400 86 36) (600 87 36) (800 88 36) (1000 89 36)))
 
 (itemgroup (index 6750) (group (150 6750) (300 6751) (450 6752)))
+
+;--------------------------------------------------------
+;[Shinra Online] Shadow of D'evah (Boss)
+;--------------------------------------------------------
+
+;Bead of Fire
+(group (index 6755) (item (1000 8105 0)))
+(itemgroup (index 6755) (group (500 6755)))
+
+;Mixing Stone
+(group (index 6756) (item (500 904 0) (1000 905 0)))
+(itemgroup (index 6756) (group (500 6756)))
